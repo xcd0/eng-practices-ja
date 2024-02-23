@@ -1,0 +1,4552 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Google Engineering Practices Documentation\n"
+"POT-Creation-Date: 2024-02-23T16:41:06+09:00\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: src/SUMMARY.md:1 src/en/review/reviewer/looking-for.md:218
+#: src/en/review/reviewer/navigate.md:5 src/en/review/reviewer/comments.md:5
+msgid "Summary"
+msgstr ""
+
+#: src/SUMMARY.md:3
+msgid "和訳"
+msgstr ""
+
+#: src/SUMMARY.md:5 src/ja/index.md:1
+msgid "Googleのエンジニアリングプラクティスドキュメント"
+msgstr ""
+
+#: src/SUMMARY.md:6 src/ja/review/index.md:1
+msgid "はじめに"
+msgstr ""
+
+#: src/SUMMARY.md:7 src/ja/review/developer/index.md:1
+msgid "CL作成者のコードレビューを乗り越えるためのガイド"
+msgstr ""
+
+#: src/SUMMARY.md:8 src/ja/review/developer/cl-descriptions.md:1
+msgid "良いCLの説明文を書く"
+msgstr ""
+
+#: src/SUMMARY.md:9 src/ja/review/developer/small-cls.md:1
+msgid "小さなCLs"
+msgstr ""
+
+#: src/SUMMARY.md:10 src/ja/review/developer/handling-comments.md:1
+msgid "レビューコメントの扱い方"
+msgstr ""
+
+#: src/SUMMARY.md:11
+msgid "どのようにコードリビューするか"
+msgstr ""
+
+#: src/SUMMARY.md:12 src/ja/review/reviewer/standard.md:1
+msgid "コードレビューの基準"
+msgstr ""
+
+#: src/SUMMARY.md:13 src/ja/review/reviewer/looking-for.md:1
+msgid "コードレビューで注目すべきポイント"
+msgstr ""
+
+#: src/SUMMARY.md:14 src/ja/review/reviewer/navigate.md:1
+msgid "レビュー中のCLのナビゲーション"
+msgstr ""
+
+#: src/SUMMARY.md:15
+msgid "コードレビューの速度"
+msgstr ""
+
+#: src/SUMMARY.md:16 src/ja/review/reviewer/comments.md:1
+msgid "コードレビューコメントの書き方"
+msgstr ""
+
+#: src/SUMMARY.md:17 src/ja/review/reviewer/pushback.md:1
+msgid "コードレビューでの反発の扱い"
+msgstr ""
+
+#: src/SUMMARY.md:18 src/ja/review/reviewer/speed.md:65
+#: src/ja/review/emergencies.md:1
+msgid "緊急事態"
+msgstr ""
+
+#: src/SUMMARY.md:23
+msgid "原文"
+msgstr ""
+
+#: src/SUMMARY.md:24 src/en/index.md:1
+msgid "Google Engineering Practices Documentation"
+msgstr ""
+
+#: src/SUMMARY.md:25 src/en/review/index.md:2
+msgid "Introduction"
+msgstr ""
+
+#: src/SUMMARY.md:26 src/en/review/developer/index.md:1
+msgid "The CL author's guide to getting through code review"
+msgstr ""
+
+#: src/SUMMARY.md:27 src/en/review/developer/cl-descriptions.md:1
+msgid "Writing good CL descriptions"
+msgstr ""
+
+#: src/SUMMARY.md:28 src/en/review/developer/small-cls.md:1
+msgid "Small CLs"
+msgstr ""
+
+#: src/SUMMARY.md:29 src/en/review/developer/handling-comments.md:1
+msgid "How to handle reviewer comments"
+msgstr ""
+
+#: src/SUMMARY.md:30 src/en/review/reviewer/index.md:1
+msgid "How to do a code review"
+msgstr ""
+
+#: src/SUMMARY.md:31 src/en/review/reviewer/standard.md:1
+msgid "The Standard of Code Review"
+msgstr ""
+
+#: src/SUMMARY.md:32 src/en/review/reviewer/looking-for.md:1
+msgid "What to look for in a code review"
+msgstr ""
+
+#: src/SUMMARY.md:33 src/en/review/reviewer/navigate.md:1
+msgid "Navigating a CL in review"
+msgstr ""
+
+#: src/SUMMARY.md:34 src/en/review/reviewer/speed.md:1
+msgid "Speed of Code Reviews"
+msgstr ""
+
+#: src/SUMMARY.md:35 src/en/review/reviewer/comments.md:1
+msgid "How to write code review comments"
+msgstr ""
+
+#: src/SUMMARY.md:36 src/en/review/reviewer/pushback.md:1
+msgid "Handling pushback in code reviews"
+msgstr ""
+
+#: src/SUMMARY.md:37 src/en/review/reviewer/speed.md:136
+#: src/en/review/emergencies.md:1
+msgid "Emergencies"
+msgstr ""
+
+#: src/ja/index.md:3
+msgid ""
+"Googleは、すべての言語とプロジェクトに適用される多くの一般的なエンジニアリングプラクティスを持っています。これらのドキュメントは、私たちが時間をかけて開発してきたさまざまなベストプラクティスの集合的な経験を表しています。オープンソースプロジェクトや他の組織も、この知識を活用できる可能性があるため、できる限り公開するように取り組んでいます。"
+msgstr ""
+
+#: src/ja/index.md:5
+msgid "現在、以下のドキュメントが含まれています："
+msgstr ""
+
+#: src/ja/index.md:7
+msgid "[Googleのコードレビューガイドライン](/ja/review/index.md)（実際には2つの別々のドキュメントです）："
+msgstr ""
+
+#: src/ja/index.md:8
+msgid "[コードレビュアーのガイド](./review/reviewer/index.md)"
+msgstr ""
+
+#: src/ja/index.md:9
+msgid "[変更作成者のガイド](./review/developer/index.md)"
+msgstr ""
+
+#: src/ja/index.md:11
+msgid "用語"
+msgstr ""
+
+#: src/ja/index.md:13
+msgid "これらのドキュメントの一部には、Google内部の用語が使用されていますが、外部の読者のためにここで説明します："
+msgstr ""
+
+#: src/ja/index.md:15
+msgid ""
+"**CL**：「changelist」の略で、バージョン管理に提出されたまたはコードレビュー中の、1つの自己完結型の変更を意味します。他の組織では、これを「変更」、「パッチ」、または「プルリクエスト」と呼ぶことがよくあります。"
+msgstr ""
+
+#: src/ja/index.md:16
+msgid "**LGTM**：「Looks Good to Me」の略で、コードレビュアーがCLを承認する際に言う言葉です。"
+msgstr ""
+
+#: src/ja/index.md:18
+msgid "ライセンス"
+msgstr ""
+
+#: src/ja/index.md:20
+msgid ""
+"このプロジェクトのドキュメントは、[CC-By "
+"3.0ライセンス](LICENSE)の下でライセンスされています。このライセンスでは、これらのドキュメントを共有することを奨励しています。詳細については、<https://creativecommons.org/licenses/by/3.0/>を参照してください。"
+msgstr ""
+
+#: src/ja/review/index.md:3
+msgid "コードレビューとは、コードの著者以外の人がそのコードを検討するプロセスです。"
+msgstr ""
+
+#: src/ja/review/index.md:5
+msgid "Googleでは、コードレビューを通じてコードと製品の品質を維持しています。"
+msgstr ""
+
+#: src/ja/review/index.md:7
+msgid "このドキュメントは、Googleのコードレビューのプロセスとポリシーの正式な説明です。"
+msgstr ""
+
+#: src/ja/review/index.md:9
+msgid "このページは、コードレビューのプロセスの概要です。このガイドの一部となる他の2つの大きなドキュメントがあります。"
+msgstr ""
+
+#: src/ja/review/index.md:11
+msgid "**[コードレビューの方法](reviewer/index.md)**: コードレビュアーのための詳細なガイドです。"
+msgstr ""
+
+#: src/ja/review/index.md:12
+msgid "**[CL著者ガイド](developer/index.md)**: レビューを受けるCLを作成する開発者のための詳細なガイドです。"
+msgstr ""
+
+#: src/ja/review/index.md:14
+msgid "コードレビュアーは何を見るのか？"
+msgstr ""
+
+#: src/ja/review/index.md:16
+msgid "コードレビューでは以下の点に注意する必要があります："
+msgstr ""
+
+#: src/ja/review/index.md:18
+msgid "**デザイン**：コードはシステムに適切に設計されていますか？"
+msgstr ""
+
+#: src/ja/review/index.md:19
+msgid "**機能性**：コードは作者の意図通りに動作していますか？コードの動作はユーザーにとって良いですか？"
+msgstr ""
+
+#: src/ja/review/index.md:20
+msgid "**複雑さ**：コードはもっとシンプルにできますか？他の開発者が将来このコードに出くわしたときに簡単に理解して使用できますか？"
+msgstr ""
+
+#: src/ja/review/index.md:21
+msgid "**テスト**：コードには正しい自動テストがありますか？それらは設計が良いですか？"
+msgstr ""
+
+#: src/ja/review/index.md:22
+msgid "**命名**：開発者は変数、クラス、メソッドなどに明確な名前を選びましたか？"
+msgstr ""
+
+#: src/ja/review/index.md:23
+msgid "**コメント**：コメントは明確で有用ですか？"
+msgstr ""
+
+#: src/ja/review/index.md:24
+msgid "**スタイル**：コードは私たちの[スタイルガイド](http://google.github.io/styleguide/)に従っていますか？"
+msgstr ""
+
+#: src/ja/review/index.md:25
+msgid "**ドキュメンテーション**：開発者は関連するドキュメントも更新しましたか？"
+msgstr ""
+
+#: src/ja/review/index.md:27
+msgid "詳細については、\\*\\*[コードレビューの方法](reviewer/index.md)\\*\\*を参照してください。"
+msgstr ""
+
+#: src/ja/review/index.md:29
+msgid "最適なレビュアーの選択"
+msgstr ""
+
+#: src/ja/review/index.md:31
+msgid "一般的には、できるだけ早くレビューに対応できる「最適な」レビュアーを見つけることが望ましいです。"
+msgstr ""
+
+#: src/ja/review/index.md:33
+msgid ""
+"最適なレビュアーとは、あなたが書いているコードの部分に対して、最も詳細かつ正確なレビューをしてくれる人のことです。通常、これはコードの所有者であり、OWNERSファイルに記載されている人々かもしれません。時には、異なる人々に異なる部分のレビューを依頼することもあります。"
+msgstr ""
+
+#: src/ja/review/index.md:35
+msgid "理想的なレビュアーを見つけた場合でも、その人が利用できない場合は、少なくとも変更に関して彼らをCCに追加するべきです。"
+msgstr ""
+
+#: src/ja/review/index.md:37
+msgid "直接対面でのレビュー（およびペアプログラミング）"
+msgstr ""
+
+#: src/ja/review/index.md:39
+msgid ""
+"もし、コードの一部を資格のある人とペアプログラミングで行い、そのコードに対して良いコードレビューが行われた場合、そのコードはレビュー済みとみなされます。"
+msgstr ""
+
+#: src/ja/review/index.md:41
+msgid "また、対面でのコードレビューも行うことができます。レビュアーが質問をし、変更を行った開発者は問われたときにのみ話すことができます。"
+msgstr ""
+
+#: src/ja/review/index.md:43
+msgid "関連情報"
+msgstr ""
+
+#: src/ja/review/index.md:45
+msgid "[コードレビューの方法](reviewer/index.md): コードレビュアーのための詳細なガイド。"
+msgstr ""
+
+#: src/ja/review/index.md:46
+msgid "[CL作成者ガイド](developer/index.md): レビューを受けるCLを作成する開発者のための詳細なガイド。"
+msgstr ""
+
+#: src/ja/review/developer/index.md:3
+msgid ""
+"このセクションのページには、コードレビューを行う開発者のためのベストプラクティスが含まれています。これらのガイドラインは、レビューをより速く、より高品質な結果で終えるのに役立つはずです。すべてを読む必要はありませんが、これらはすべてのGoogleの開発者に適用されることを意図しており、多くの人々が全体を読むことが役立つと感じています。"
+msgstr ""
+
+#: src/ja/review/developer/index.md:5
+msgid "[良いCLの説明の書き方](cl-descriptions.md)"
+msgstr ""
+
+#: src/ja/review/developer/index.md:6
+msgid "[小さなCL](small-cls.md)"
+msgstr ""
+
+#: src/ja/review/developer/index.md:7
+msgid "[レビューコメントの処理方法](handling-comments.md)"
+msgstr ""
+
+#: src/ja/review/developer/index.md:9
+msgid "また、コードレビューを行う人には詳細なガイダンスを提供する[コードレビューの方法](../reviewer/index.md)も参照してください。"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:3
+msgid ""
+"CLの説明文は、**何が**変更されているのかと、**なぜ**その変更が行われたのかを公に記録するものです。これは、バージョン管理の履歴の一部となり、レビュワー以外の数百人の人々によって何年もの間読まれる可能性があります。"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:5
+msgid ""
+"将来の開発者は、説明文に基づいてCLを検索するでしょう。将来の誰かが、関連性のある変更のかすかな記憶を持っているが、具体的な情報が手元にないために、あなたの変更を探しているかもしれません。重要な情報がコードではなく説明文にある場合、彼らがあなたのCLを見つけるのはずっと難しくなります。"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:7
+msgid "最初の行"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:9
+msgid "行われていることの短い要約。"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:10
+msgid "命令として書かれた完全な文。"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:11
+msgid "空行で区切る。"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:13
+msgid ""
+"CLの説明の**最初の行**は、具体的にCLによって**何が行われているか**の短い要約である。その後に空行を置く。これはバージョン管理の履歴の要約に表示されるため、将来のコード検索者があなたのCLやその説明全体を読まなくても、実際にCLが何をしたのか、他のCLとどのように異なるのかを理解するのに十分な情報であるべきです。つまり、最初の行は単独で成立し、読者がコードの履歴をスキャンするのをはるかに速くすることができるようにする必要があります。"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:15
+msgid "最初の行を短く、焦点を絞り、要点に留めるようにしてください。読者への明確さと有用性が最優先です。"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:17
+msgid ""
+"伝統的に、CLの説明の最初の行は、命令文（命令文）として書かれた完全な文です。例えば、「FizzBuzz "
+"RPCを**削除**し、新しいシステムで**置き換える**」と言う代わりに、「FizzBuzz "
+"RPCを**削除して**新しいシステムで**置き換える**」と書きます。ただし、説明の残りを命令文として書く必要はありません。"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:19
+msgid "本文は情報提供です"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:21
+msgid ""
+"[最初の行](#firstline)は短く、焦点を絞った要約であるべきです。その他の説明では、変更リストを全体的に理解するために読者が必要とする補足情報や詳細を含めるべきです。解決されている問題の簡単な説明や、なぜこれが最善のアプローチなのかを含めることがあります。アプローチの欠点がある場合は、それも述べるべきです。関連する場合、バグ番号やベンチマーク結果、設計文書へのリンクなどの背景情報も含めることができます。"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:23
+msgid ""
+"外部リソースへのリンクを含める場合、アクセス制限や保持ポリシーにより将来の読者には表示されない可能性があることを考慮してください。可能な限り、レビュワーや将来の読者がCLを理解するための十分な文脈を含めてください。"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:25
+msgid "小さなCLでも細部に注意を払う価値があります。CLを文脈に置いてください。"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:27
+msgid "不適切なCLの説明"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:29
+msgid "「バグを修正する」というCLの説明は不十分です。どのバグですか？それを修正するために何をしましたか？ 同様に不適切な説明には以下のものがあります："
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:32
+msgid "「ビルドを修正する」"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:33
+msgid "「パッチを追加する」"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:34
+msgid "「コードをAからBに移動する」"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:35
+msgid "「フェーズ1」"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:36
+msgid "「便利な関数を追加する」"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:37
+msgid "「奇妙なURLを削除する」"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:39
+msgid "これらのいくつかは実際のCLの説明です。短いですが、十分な有用な情報を提供していません。"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:41
+msgid "良いCLの説明例"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:43
+msgid "以下に、良い説明の例をいくつか示します。"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:45
+msgid "機能変更"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:47
+#: src/ja/review/developer/cl-descriptions.md:57
+#: src/ja/review/developer/cl-descriptions.md:71
+msgid "例："
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:49
+msgid "RPC: RPCサーバーメッセージフリーリストのサイズ制限を削除します。"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:51
+msgid ""
+"FizzBuzzのようなサーバーは非常に大きなメッセージを持っており、再利用することで利益を得ることができます。 "
+"フリーリストを大きくし、フリーリストのエントリを時間をかけて解放するゴルーチンを追加します。 "
+"これにより、アイドル状態のサーバーは最終的にすべてのフリーリストエントリを解放します。"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:55
+msgid "リファクタリング"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:59
+msgid "タスクを構築し、そのTimeStrメソッドとNowメソッドを使用するために、TimeKeeperを使用します。"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:61
+msgid ""
+"タスクにNowメソッドを追加し、borglet()のゲッターメソッドを削除します（これは、OOMCandidateがborgletのNowメソッドを呼び出すためにのみ使用されていました）。これにより、Borgletに委譲するメソッドが置き換えられます。"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:63
+msgid ""
+"タスクがNowを提供できるようにすることは、Borgletへの依存を排除するための一歩です。最終的には、タスクからNowを取得する依存関係を直接TimeKeeperを使用するように変更する必要がありますが、これはリファクタリングを段階的に行うための配慮です。"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:65
+msgid "Borgletの階層を長期的にリファクタリングする目標を続けます。"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:67
+msgid ""
+"最初の行は、CLが何を行い、これが過去からの変更であることを説明しています。説明の残りの部分は、具体的な実装、CLの文脈、解決策が理想的ではないこと、および将来の方向性について説明しています。また、なぜこの変更が行われるのかも説明しています。"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:69
+msgid "コンテキストが必要な小さなCL"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:73
+msgid "status.pyのためのPython3のビルドルールを作成します。"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:75
+msgid ""
+"これにより、既にPython3を使用しているコンシューマーは、元のstatusのビルドルールの隣にあるルールに依存することができます。これは、自分自身のツリーのどこかではなく、元のビルドルールの隣に依存することを意味します。これにより、新しいコンシューマーは、可能な限りPython3を使用することが奨励され、現在作業中のいくつかの自動ビルドファイルのリファクタリングツールが大幅に簡素化されます。"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:77
+msgid "タグの使用"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:79
+msgid ""
+"タグは手動で入力されるラベルであり、CL（変更リスト）を分類するために使用できます。これらはツールによってサポートされる場合もありますし、チームの慣習として使用される場合もあります。"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:81
+msgid "例えば："
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:83
+#: src/en/review/developer/cl-descriptions.md:136
+msgid "\"\\[tag\\]\""
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:84
+#: src/en/review/developer/cl-descriptions.md:137
+msgid "\"\\[a longer tag\\]\""
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:85
+#: src/en/review/developer/cl-descriptions.md:138
+msgid "\"#tag\""
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:86
+#: src/en/review/developer/cl-descriptions.md:139
+msgid "\"tag:\""
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:88
+msgid "タグの使用は任意です。"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:90
+msgid ""
+"タグを追加する際には、[CLの説明の本文](#informative)または[最初の行](#firstline)に配置するかどうかを考慮してください。最初の行でのタグの使用は、内容をわかりにくくする可能性があるため、制限してください。"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:92
+msgid "タグの使用例（タグありとタグなし）："
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:94
+msgid ""
+"```{.good}\n"
+"// タグは最初の行に短く保つ場合は問題ありません。\n"
+"[banana] バナナを食べる前に皮をむいてください。\n"
+"\n"
+"// タグはコンテンツ内にインラインで配置することもできます。\n"
+"バナナを食べる前に #banana をむいてください。\n"
+"\n"
+"// タグは任意です。\n"
+"バナナを食べる前に皮をむいてください。\n"
+"\n"
+"// タグが短く保たれている場合、複数のタグを使用することもできます。\n"
+"#banana #apple: 果物のかごを組み立てる。\n"
+"\n"
+"// タグはCLの説明のどこにでも配置できます。\n"
+"> 果物のかごを組み立てる。\n"
+">\n"
+"> #banana #apple\n"
+"```"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:113
+msgid ""
+"```{.bad}\n"
+"// タグが多すぎる（または長すぎる）と最初の行が混雑します。\n"
+"//\n"
+"// 代わりに、タグを説明の本文に移動したり、短縮したりできるかどうかを検討してください。\n"
+"[banana peeler factory factory][apple picking service] 果物のかごを組み立てる。\n"
+"```"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:120
+msgid "生成されたCLの説明"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:122
+msgid ""
+"一部のCLはツールによって生成されます。できる限り、その説明もここでのアドバイスに従うべきです。つまり、最初の行は短く、焦点を絞り、単独で成立し、CLの説明本文には、レビュワーや将来のコード検索者が各CLの効果を理解するのに役立つ情報を含めるべきです。"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:124
+msgid "CLを提出する前に説明を確認してください"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:126
+msgid ""
+"CLはレビュー中に大きな変更が加えられることがあります。CLを提出する前に、CLの説明を再確認して、説明がCLの内容を正確に反映していることを確認することが価値があります。"
+msgstr ""
+
+#: src/ja/review/developer/cl-descriptions.md:128
+msgid "次: [小さなCL](small-cls.md)"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:3
+msgid "なぜ小さなCLを書くのか？"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:5
+msgid "小さくてシンプルなCLの方が以下のような利点があります："
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:7
+msgid ""
+"**迅速にレビューされる**：レビュアーは小さなCLを数回に分けて5分ずつ見つける方が、1つの大きなCLを30分のブロックに割り当てるよりも簡単です。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:8
+msgid ""
+"**徹底的にレビューされる**：大きな変更では、詳細なコメントが行ったり来たりすることで、レビュアーや著者はイライラし、重要なポイントが見落とされたり落とされたりすることがあります。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:9
+msgid "**バグを導入する可能性が低い**：変更が少ないため、CLの影響を効果的に推論し、バグが導入されていないかを確認することが容易です。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:10
+msgid "**却下された場合の無駄な作業が少ない**：巨大なCLを書いて、レビュアーが全体的な方向性が間違っていると言った場合、多くの作業が無駄になります。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:11
+msgid "**マージが容易**：大きなCLで作業するのは時間がかかるため、マージする際に多くの競合が発生し、頻繁にマージする必要があります。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:12
+msgid "**設計が容易**：小さな変更の設計とコードの品質を磨く方が、大きな変更の詳細を洗練するよりも簡単です。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:13
+msgid ""
+"**レビューにブロックされることが少ない**：全体的な変更の自己完結した部分を送信することで、現在のCLがレビューされるのを待ちながらコーディングを続けることができます。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:14
+msgid ""
+"**ロールバックが簡単**：大きなCLは、初期のCLの提出とロールバックCLの間に更新されるファイルに触れる可能性が高く、ロールバックが複雑になります（中間のCLもロールバックする必要があるかもしれません）。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:16
+msgid ""
+"なお、\\*\\*レビュアーはCLが大きすぎるために変更を拒否する権限を持っています。\\*\\*通常、彼らはあなたの貢献に感謝し、それを一連の小さな変更にするように要求するでしょう。すでに書いた変更を分割するのは大変な作業であり、また、レビュアーが受け入れるべき理由について議論する時間がかかるかもしれません。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:18
+msgid "Hello, how can I assist you today?"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:20
+msgid "Smallとは何ですか？"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:22
+msgid "一般的に、CLの適切なサイズは**1つの自己完結した変更**です。つまり、以下のような特徴を持ちます。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:24
+msgid ""
+"CLは、**1つのこと**に対処する最小限の変更を行います。通常、機能全体ではなく、機能の一部に対して行われます。一般的には、CLが大きすぎるよりも小さすぎるCLを書く方が良いです。受託者と協力して、受け入れ可能なサイズを見つけましょう。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:25
+msgid "CLには、[関連するテストコード](#test_code)が含まれている必要があります。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:26
+msgid "CLについて理解するためにレビュアーが必要とする情報は、CL自体、CLの説明、既存のコードベース、または既にレビューされたCLに含まれています。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:27
+msgid "CLがチェックインされた後も、システムはユーザーと開発者の両方にとってうまく機能し続けます。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:28
+msgid ""
+"CLの影響が理解しにくいほど小さすぎるわけではありません。新しいAPIを追加する場合は、同じCL内でAPIの使用例を含めることで、レビュアーがAPIの使用方法をより理解しやすくすることができます。これにより、未使用のAPIをチェックインすることも防げます。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:30
+msgid ""
+"「大きすぎる」とは具体的な基準はありませんが、通常、100行程度のCLは適切なサイズであり、1000行は通常、大きすぎるとされます。ただし、これはレビュアーの判断に委ねられます。変更が広範囲にわたるファイル数も「サイズ」に影響を与えます。1つのファイルで200行の変更は問題ないかもしれませんが、50のファイルに分散されると通常、大きすぎるとされます。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:32
+msgid ""
+"自分がコードを書き始めた瞬間からコードに深く関与しているかもしれませんが、レビュアーにはその文脈がないことを念頭に置いてください。あなたにとっては受け入れ可能なサイズのCLでも、レビュアーにとっては圧倒的なものに見えるかもしれません。迷った場合は、思ったよりも小さなCLを書くようにしましょう。レビュアーは、あまり小さすぎるCLを受け取ったとは滅多に文句を言いません。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:34
+msgid "大規模な変更が許容される場合"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:36
+msgid "大規模な変更が問題にならない場合はいくつかあります。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:38
+msgid "ファイル全体の削除は、レビュアーがレビューするのにあまり時間がかからないため、1行の変更として数えることができます。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:39
+msgid ""
+"時には、完全に信頼できる自動リファクタリングツールによって生成された大規模な変更があります。レビュアーの仕事は、変更が本当に必要であることを確認し、承認することです。これらの変更は大きくなることがありますが、上記の注意事項（マージやテストなど）は依然として適用されます。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:41
+msgid "効率的に小さなCLを書く方法"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:43
+msgid ""
+"もし小さなCLを書いてからレビュワーに承認されるのを待ってから次のCLを書くとすると、多くの時間を無駄にすることになります。ですので、レビュー待ちの間にブロックされない方法を見つける必要があります。これには、同時に複数のプロジェクトに取り組む、即座に利用可能なレビュワーを見つける、対面でのレビュー、ペアプログラミング、またはCLを分割して即座に作業を続ける方法などが含まれるかもしれません。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:45
+msgid "CLの分割"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:47
+msgid ""
+"相互に依存関係がある可能性のある複数のCLを持つ作業を開始する際には、コーディングに入る前に、高レベルでCLを分割して組織する方法を考えることがしばしば役立ちます。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:49
+msgid "CLの作成者として、CLを管理・組織するためにも便利ですし、コードレビュアーにとっても作業を容易にし、コードレビューを効率化することができます。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:51
+msgid "以下に、作業を異なるCLに分割するためのいくつかの戦略を示します。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:53
+msgid "重ねて変更を積み重ねる"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:55
+msgid ""
+"自分自身をブロックせずにCLを分割する方法の一つは、小さなCLを書いて、レビューに送り、すぐに最初のCLを基にした別のCLを書き始めることです。ほとんどのバージョン管理システムは、何らかの方法でこれを行うことができます。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:57
+msgid "ファイルごとの分割"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:59
+msgid "CLを分割する別の方法は、異なるレビュワーが必要ながらもそれ以外は独立した変更を必要とするファイルのグループによって行うことです。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:61
+msgid ""
+"例えば、プロトコルバッファの修正のための1つのCLと、そのプロトを使用するコードの変更のための別のCLを送信します。コードのCLを送信する前にプロトのCLを提出する必要がありますが、両方のCLは同時にレビューできます。これを行う場合、自分が書いた他のCLについて両方のレビュワーに通知することが望ましいかもしれません。これにより、変更の文脈を持っていることができます。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:63
+msgid ""
+"別の例として、コードの変更のための1つのCLと、そのコードを使用する設定や実験のための別のCLを送信します。必要に応じて、設定/実験ファイルはコードの変更よりも早く本番環境にプッシュされることがあるため、必要に応じて簡単に元に戻すこともできます。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:65
+msgid "水平分割"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:67
+msgid ""
+"テックスタックの各層間の変更を分離するのに役立つ共有コードやスタブを作成することを考えてみてください。これにより、開発を迅速化するだけでなく、各層間の抽象化も促進されます。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:69
+msgid ""
+"例えば、クライアント、API、サービス、データモデルの各層を持つ電卓アプリを作成したとします。共有のプロト署名を使用することで、サービスとデータモデルの層を互いに分離することができます。同様に、APIスタブを使用することで、クライアントコードとサービスコードの実装を分割し、それぞれが独立して進めるようにすることができます。同様のアイデアは、より詳細な関数やクラスレベルの抽象化にも適用することができます。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:71
+msgid "垂直に分割する"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:73
+msgid ""
+"階層的で水平なアプローチとは異なり、コードを小さなフルスタックの垂直な機能に分割することもできます。これらの機能のそれぞれは独立した並行実装トラックとなります。これにより、一部のトラックがレビューやフィードバック待ちの間も前進することができます。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:75
+msgid ""
+"[水平に分割する](#splitting-horizontally)での計算機の例に戻りましょう。今度は、乗算や除算などの新しい演算子をサポートしたいとします。これを、乗算と除算を別々の垂直な機能やサブフィーチャーとして実装することで分割することができます。ただし、共有のボタンスタイリングや共有のバリデーションロジックなど、一部の重複があるかもしれません。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:77
+msgid "水平および垂直に分割する"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:79
+msgid ""
+"さらに進んで、これらのアプローチを組み合わせて、次のような実装計画を作成することができます。各セルは独立したCLです。 "
+"モデル（一番下）からクライアントまで進めるようにします。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:82
+msgid "レイヤー"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:82
+msgid "機能：乗算"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:82
+msgid "機能：除算"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:84
+msgid "クライアント"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:84
+#: src/ja/review/developer/small-cls.md:84
+msgid "追加ボタン"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:85
+#: src/en/review/developer/small-cls.md:166
+msgid "API"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:85
+#: src/ja/review/developer/small-cls.md:85
+msgid "エンドポイントを追加"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:86
+msgid "サービス"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:86
+msgid "変換を実装"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:86
+msgid "乗算と共有変換ロジックを"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:87
+msgid ":         :                           : 追加する :"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:88
+msgid "モデル"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:88
+#: src/ja/review/developer/small-cls.md:88
+msgid "プロト定義を追加"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:90
+msgid "リファクタリングを分離する"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:92
+msgid ""
+"リファクタリングは、通常、機能の変更やバグ修正とは別のCLで行うのが最善です。例えば、クラスの移動や名前の変更は、そのクラスのバグ修正とは別のCLで行うべきです。各CLごとに導入される変更をレビュワーが理解しやすくするためには、分離する方がはるかに簡単です。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:94
+msgid ""
+"ただし、ローカル変数名の修正などの小さなクリーンアップは、機能の変更やバグ修正のCL内に含めることもできます。ただし、現在のCLに含めるとレビューがより困難になると判断される場合は、開発者とレビュワーの判断に委ねられます。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:96
+msgid "関連するテストコードを同じCLにまとめる"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:98
+msgid "CLには関連するテストコードを含めるべきです。ここでの「小ささ」とは、CLが焦点を絞っていることを指し、行数の単純な関数ではありません。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:100
+msgid "すべてのGoogleの変更にはテストが必要です。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:102
+msgid ""
+"ロジックを追加または変更するCLには、新しい動作に対応する新しいまたは更新されたテストが必要です。純粋なリファクタリングCL（動作を変更する意図のないもの）もテストでカバーする必要があります。理想的には、これらのテストはすでに存在しているはずですが、存在しない場合は追加する必要があります。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:104
+msgid ""
+"独立したテストの変更は、まず別々のCLに入れることができます。[リファクタリングのガイドライン](#refactoring)と同様です。これには以下が含まれます："
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:105
+msgid "既存の提出済みコードを新しいテストで検証すること。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:106
+msgid "重要なロジックがテストでカバーされていることを確認します。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:107
+msgid ""
+"影響を受けるコードの後続のリファクタリングに対する信頼性を高めます。たとえば、テストされていないコードをリファクタリングしたい場合、リファクタリングCLを提出する前にテストCLを提出することで、リファクタリング前後でテストされた動作が変わらないことを検証できます。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:108
+msgid "テストコードのリファクタリング（例：ヘルパー関数の導入）。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:109
+msgid "大規模なテストフレームワークコードの導入（例：統合テスト）。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:111
+msgid "ビルドを壊さないでください"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:113
+msgid ""
+"もし複数のCLが互いに依存している場合、各CLが提出された後もシステム全体が正常に動作し続けるようにする必要があります。そうしないと、CLを提出するたびに他の開発者全員のビルドが数分間（もしくは後のCLの提出で何か予期せぬ問題が発生した場合はそれ以上の時間）壊れてしまう可能性があります。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:115
+msgid "十分に小さくすることはできません"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:117
+msgid ""
+"CLが大きくならざるを得ない状況に遭遇することがあります。しかし、これは非常に稀です。小さなCLを書くことに慣れた著者は、ほとんどの場合、機能を一連の小さな変更に分解する方法を見つけることができます。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:119
+msgid ""
+"大きなCLを書く前に、リファクタリング専用のCLを前に置くことで、よりクリーンな実装の道を開くことができるかどうかを考えてみてください。チームメンバーと話し合い、機能を小さなCLに実装する方法についての意見を聞いてみてください。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:121
+msgid ""
+"これらのオプションがすべて失敗した場合（非常に稀ですが）、事前にレビュワーの承諾を得て大きなCLをレビューするようにしてください。これにより、彼らは何が来るかについて警告されます。この状況では、長い時間をかけてレビュープロセスを進めることを予想し、バグを導入しないように注意し、テストの作成に特に注意してください。"
+msgstr ""
+
+#: src/ja/review/developer/small-cls.md:123
+msgid "次: [レビューコメントの処理方法](handling-comments.md)"
+msgstr ""
+
+#: src/ja/review/developer/handling-comments.md:3
+msgid ""
+"CL（変更リスト）をレビューに送信すると、レビュアーから複数のコメントが返ってくることがあります。以下に、レビューコメントの扱いについて知っておくと役立つ情報をいくつか紹介します。"
+msgstr ""
+
+#: src/ja/review/developer/handling-comments.md:5
+msgid "個人的に受け取らないでください"
+msgstr ""
+
+#: src/ja/review/developer/handling-comments.md:7
+msgid ""
+"レビューの目的は、コードベースと製品の品質を維持することです。 "
+"レビュアーがあなたのコードに対して批判を行うときは、それをあなたやあなたの能力に対する個人攻撃ではなく、あなたやコードベース、Googleを助けるための試みと考えてください。"
+msgstr ""
+
+#: src/ja/review/developer/handling-comments.md:10
+msgid ""
+"時にはレビュアーはイライラしており、コメントでそのイライラを表現することがあります。これはレビュアーとしては良い慣行ではありませんが、開発者としてはそれに備えておくべきです。自分に対してレビュアーが何を伝えようとしているのか、\"レビュアーが実際に言っていること\"として行動してください。"
+msgstr ""
+
+#: src/ja/review/developer/handling-comments.md:12
+msgid ""
+"**コードレビューコメントに対して怒りで応答しないでください。** "
+"それはプロのエチケットの重大な違反であり、コードレビューツールに永遠に残ります。もし怒りやイライラで親切に応答することができない場合は、しばらくコンピュータから離れるか、他の作業に取り組んで落ち着くまで待ってから丁寧に返信してください。"
+msgstr ""
+
+#: src/ja/review/developer/handling-comments.md:14
+msgid ""
+"一般的に、レビュアーが建設的で礼儀正しい方法でフィードバックを提供していない場合は、直接話し合うことを説明してください。もし直接話すことができない場合やビデオ通話で話すことができない場合は、プライベートなメールで彼らに説明してください。嫌な点や異なる方法をお願いすることを親切に説明してください。もし彼らがこのプライベートな話し合いにも建設的でないように応答したり、意図した効果が得られない場合は、適切な場合には上司にエスカレーションしてください。"
+msgstr ""
+
+#: src/ja/review/developer/handling-comments.md:16
+msgid "コードの修正"
+msgstr ""
+
+#: src/ja/review/developer/handling-comments.md:18
+msgid ""
+"もしレビュアーがあなたのコードの何かを理解できないと言った場合、最初にするべきはコード自体を明確にすることです。もしコードを明確にすることができない場合、コードの存在理由を説明するコメントを追加してください。コメントが無意味に思える場合にのみ、コードレビューツールでの説明が適切な対応です。"
+msgstr ""
+
+#: src/ja/review/developer/handling-comments.md:20
+msgid ""
+"もしレビュアーがあなたのコードの一部を理解できなかった場合、将来のコード読者も同様に理解できない可能性があります。コードレビューツールでの返答は将来のコード読者には役立ちませんが、コードを明確にするかコメントを追加することは役立ちます。"
+msgstr ""
+
+#: src/ja/review/developer/handling-comments.md:22
+msgid "協力的に考える"
+msgstr ""
+
+#: src/ja/review/developer/handling-comments.md:24
+msgid ""
+"CLを書くのは大変な作業です。レビューのために送信し、完成したと感じ、さらなる作業は必要ないと確信することは、しばしば非常に満足感を得ることです。特に、自分が意見に同意しない場合、変更を求めるコメントを受け取ることは、イライラすることがあります。"
+msgstr ""
+
+#: src/ja/review/developer/handling-comments.md:26
+msgid ""
+"このような時には、一歩引いて考えてみてください。レビュアーがコードベースやGoogleに役立つ有益なフィードバックを提供しているかどうかを考えてみてください。自分自身に最初に問いかけるべき質問は常に「レビュアーが何を求めているのか理解できているか？」です。"
+msgstr ""
+
+#: src/ja/review/developer/handling-comments.md:28
+msgid "その質問に答えられない場合は、レビュアーに明確化を求めてください。"
+msgstr ""
+
+#: src/ja/review/developer/handling-comments.md:30
+msgid ""
+"そして、コメントを理解しているが、それに同意しない場合は、協力的に考えることが重要です。攻撃的な態度や防御的な態度ではなく、協力的に考えることが重要です。"
+msgstr ""
+
+#: src/ja/review/developer/handling-comments.md:32
+msgid "悪い例: 「いや、それはやらない。」"
+msgstr ""
+
+#: src/ja/review/developer/handling-comments.md:34
+msgid ""
+"良い例: "
+"「私はXを選んだ理由は、\\[これらの利点/欠点\\]と\\[これらのトレードオフ\\]です。私の理解では、Yを使用すると\\[これらの理由\\]で悪化すると考えています。Yが元のトレードオフにより適しているということですか？トレードオフを異なる視点で考慮すべきですか？それとも他の何かですか？」"
+msgstr ""
+
+#: src/ja/review/developer/handling-comments.md:36
+msgid "覚えておいてください、常に "
+msgstr ""
+
+#: src/ja/review/developer/handling-comments.md:36
+msgid ""
+" "
+"[礼儀と尊重](https://chromium.googlesource.com/chromium/src/+/master/docs/cr_respect.md)が最優先 "
+msgstr ""
+
+#: src/ja/review/developer/handling-comments.md:36
+msgid ""
+" "
+"です。レビュアーと意見が異なる場合でも、協力する方法を見つけてください：明確化を求める、利点と欠点を議論する、コードベース、ユーザー、またはGoogleにとって自分の方法がより良い理由を説明するなど。"
+msgstr ""
+
+#: src/ja/review/developer/handling-comments.md:38
+msgid ""
+"時には、レビュアーが知らないユーザーやコードベース、またはCLについての情報を持っているかもしれません。適切な場所でコードを修正し、レビュアーとの議論に参加し、より多くの文脈を提供してください。通常、技術的な事実に基づいて、自分とレビュアーの間で合意に達することができます。"
+msgstr ""
+
+#: src/ja/review/developer/handling-comments.md:40
+#: src/ja/review/reviewer/standard.md:41 src/ja/review/reviewer/pushback.md:31
+msgid "紛争の解決"
+msgstr ""
+
+#: src/ja/review/developer/handling-comments.md:42
+msgid ""
+"紛争を解決するための最初のステップは、常にレビュアーとの合意を図ることです。合意に達しない場合は、[コードレビューの基準](../reviewer/standard.md)を参照してください。この基準では、そのような状況で従うべき原則が示されています。"
+msgstr ""
+
+#: src/ja/review/reviewer/index.md:1
+msgid "コードレビューの方法"
+msgstr ""
+
+#: src/ja/review/reviewer/index.md:3
+msgid ""
+"このセクションのページでは、長年の経験に基づいて、コードレビューの最良の方法に関する推奨事項が記載されています。これらはすべて、1つの完全なドキュメントを多くのセクションに分割したものです。すべてを読む必要はありませんが、多くの人々が、自分自身やチームにとって非常に役立つと感じています。"
+msgstr ""
+
+#: src/ja/review/reviewer/index.md:5
+msgid "[コードレビューの標準](standard.md)"
+msgstr ""
+
+#: src/ja/review/reviewer/index.md:6
+msgid "[コードレビューで探すべきもの](looking-for.md)"
+msgstr ""
+
+#: src/ja/review/reviewer/index.md:7
+msgid "[レビュー中のCLのナビゲーション](navigate.md)"
+msgstr ""
+
+#: src/ja/review/reviewer/index.md:8
+msgid "[コードレビューのスピード](speed.md)"
+msgstr ""
+
+#: src/ja/review/reviewer/index.md:9
+msgid "[コードレビューコメントの書き方](comments.md)"
+msgstr ""
+
+#: src/ja/review/reviewer/index.md:10
+msgid "[コードレビューでの反対意見の扱い方](pushback.md)"
+msgstr ""
+
+#: src/ja/review/reviewer/index.md:12
+msgid ""
+"また、[CL作成者ガイド](../developer/index.md)も参照してください。これは、CLがレビューを受けている開発者に詳細なガイダンスを提供しています。"
+msgstr ""
+
+#: src/ja/review/reviewer/standard.md:3
+msgid ""
+"コードレビューの主な目的は、Googleのコードベースの全体的なコードの健全性が時間とともに向上していることを確認することです。コードレビューのすべてのツールとプロセスは、この目的を達成するために設計されています。"
+msgstr ""
+
+#: src/ja/review/reviewer/standard.md:5
+msgid "これを達成するためには、いくつかのトレードオフをバランスさせる必要があります。"
+msgstr ""
+
+#: src/ja/review/reviewer/standard.md:7
+msgid ""
+"まず、開発者は自分のタスクを進めることができなければなりません。コードベースに改善を提出しなければ、コードベースは改善されません。また、レビュアが変更を非常に難しくすると、開発者は将来の改善をする意欲を失います。"
+msgstr ""
+
+#: src/ja/review/reviewer/standard.md:9
+msgid ""
+"一方、レビュアの責任は、各CLがコードベースの全体的なコードの健全性が時間とともに低下しないようにすることです。これは難しいことです。なぜなら、コードベースはしばしば時間とともにコードの健全性がわずかに低下することで劣化するからです。特に、チームが時間的制約の下にあり、目標を達成するために手を抜かざるを得ないと感じている場合には、さらにそうなります。"
+msgstr ""
+
+#: src/ja/review/reviewer/standard.md:11
+msgid ""
+"また、レビュアは自分がレビューしているコードに所有権と責任を持っています。彼らはコードベースが一貫性を保ち、保守可能であり、[\"コードレビューで探すべきもの\"](looking-for.md)で言及されている他のすべての要素を確保したいと考えています。"
+msgstr ""
+
+#: src/ja/review/reviewer/standard.md:13
+msgid "したがって、コードレビューで期待される標準として次のルールが得られます。"
+msgstr ""
+
+#: src/ja/review/reviewer/standard.md:15
+msgid ""
+"**一般的に、CLがシステム全体のコードの健全性を確実に向上させる状態になった時点で、レビュアはCLの承認を優先すべきです。CLが完璧でなくても構いません。**"
+msgstr ""
+
+#: src/ja/review/reviewer/standard.md:17
+msgid "これは、すべてのコードレビューガイドラインの中での最も重要な原則です。"
+msgstr ""
+
+#: src/ja/review/reviewer/standard.md:19
+msgid ""
+"もちろん、これには制約があります。たとえば、レビュアがシステムに追加したくない機能をCLが追加している場合、コードが設計されていても承認を拒否することができます。"
+msgstr ""
+
+#: src/ja/review/reviewer/standard.md:21
+msgid ""
+"ここで重要なポイントは、「完璧な」コードというものは存在しないということです。ただし、より良いコードは存在します。レビュアは、著者に対してCLのすべての細部を磨くことを要求するべきではありません。代わりに、レビュアは前進する必要性と提案されている変更の重要性をバランスさせるべきです。完璧さを求めるのではなく、レビュアが求めるべきは「継続的な改善」です。システムの保守性、可読性、理解性を全体的に向上させるCLは、数日間遅延させるべきではありません。"
+msgstr ""
+
+#: src/ja/review/reviewer/standard.md:23
+msgid ""
+"レビュアーは、いつでも何かが改善できるというコメントを自由に残すことができるが、それが非常に重要でない場合は、「Nit: "
+"」のような接頭辞を付けて、著者にそれを無視してもよいと伝えることができます。"
+msgstr ""
+
+#: src/ja/review/reviewer/standard.md:25
+msgid ""
+"注意：このドキュメントには、システム全体のコードの健全性を明らかに悪化させるようなCLをチェックインすることを正当化するものはありません。それを行うのは、[緊急時](../emergencies.md)のみです。"
+msgstr ""
+
+#: src/ja/review/reviewer/standard.md:27
+msgid "メンタリング"
+msgstr ""
+
+#: src/ja/review/reviewer/standard.md:29
+msgid ""
+"コードレビューは、開発者に言語、フレームワーク、または一般的なソフトウェア設計原則について新しいことを教える重要な機能を持つことがあります。開発者が新しいことを学ぶのに役立つコメントを残すことは常に良いことです。知識を共有することは、システムのコード品質を時間とともに向上させる一部です。ただし、コメントが純粋に教育的であり、このドキュメントで説明されている基準を満たすために必須ではない場合は、「Nit: "
+"」という接頭辞を付けるか、それが著者が解決する必要がないことを示す他の方法を使用してください。"
+msgstr ""
+
+#: src/ja/review/reviewer/standard.md:31
+msgid "原則"
+msgstr ""
+
+#: src/ja/review/reviewer/standard.md:33
+msgid "技術的な事実とデータは、意見や個人の好みよりも優先される。"
+msgstr ""
+
+#: src/ja/review/reviewer/standard.md:35
+msgid ""
+"スタイルに関する問題では、[スタイルガイド](http://google.github.io/styleguide/)が絶対的な権威である。スタイルガイドにない純粋なスタイルのポイント（空白など）は、個人の好みの問題である。スタイルは、既存のスタイルと一貫性があるべきである。既存のスタイルがない場合は、著者のスタイルを受け入れる。"
+msgstr ""
+
+#: src/ja/review/reviewer/standard.md:37
+msgid ""
+"\\*\\*ソフトウェア設計の側面は、ほとんど常に純粋なスタイルの問題や個人の好みだけではありません。\\*\\*それらは基本原則に基づいており、その原則に基づいて評価するべきです。時にはいくつかの妥当な選択肢があります。著者が（データまたは堅実なエンジニアリング原則に基づいて）いくつかのアプローチが同じくらい妥当であることを示すことができれば、レビュアーは著者の好みを受け入れるべきです。そうでない場合は、ソフトウェア設計の標準的な原則によって選択されます。"
+msgstr ""
+
+#: src/ja/review/reviewer/standard.md:39
+msgid "他のルールが適用されない場合、レビュアーは、システム全体のコードの健全性を悪化させない限り、現在のコードベースに一貫性を求めることができます。"
+msgstr ""
+
+#: src/ja/review/reviewer/standard.md:43
+msgid ""
+"コードレビューにおけるいかなる紛争においても、最初のステップは常に開発者とレビュアーがこのドキュメントや他のドキュメント（[CL作成者ガイド](../developer/index.md)および[レビュアーガイド](index.md)）の内容に基づいて合意を図ることです。"
+msgstr ""
+
+#: src/ja/review/reviewer/standard.md:45
+msgid ""
+"合意に達することが特に困難な場合、コードレビューコメントだけで紛争を解決しようとする代わりに、レビュアーと作成者の間で対面会議やビデオ会議を行うことが役立つ場合があります。（ただし、その場合は議論の結果をCLのコメントとして記録しておくことを忘れないでください。将来の読者のために。）"
+msgstr ""
+
+#: src/ja/review/reviewer/standard.md:47
+msgid ""
+"それでも状況が解決しない場合、最も一般的な解決方法はエスカレーションです。しばしばエスカレーションの経路は、より広範なチームの議論、テクニカルリードの意見、コードのメンテナからの決定の要求、またはエンジニアリングマネージャーの助けを求めることです。**作者とレビュアーが合意に達しないためにCLを放置しないでください。**"
+msgstr ""
+
+#: src/ja/review/reviewer/standard.md:49
+msgid "次: [コードレビューで探すべきポイント](looking-for.md)"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:3
+msgid "注意：これらのポイントを考慮する際には、常に[コードレビューの標準](standard.md)を参考にしてください。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:5
+msgid "デザイン"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:7
+msgid ""
+"レビューで最も重要なのは、CLの全体的なデザインです。 "
+"CL内のさまざまなコードの相互作用は意味をなしていますか？この変更は、コードベースではなくライブラリに属していますか？システム全体との統合はうまくいっていますか？この機能を追加するのに適切な時期ですか？"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:10
+msgid "機能性"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:12
+msgid ""
+"このCLは、開発者が意図した通りの動作をしていますか？開発者が意図したことは、このコードのユーザーにとって良いものですか？「ユーザー」とは、通常、エンドユーザー（変更の影響を受ける場合）と開発者（将来このコードを「使用」する必要がある）の両方を指します。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:14
+msgid ""
+"ほとんどの場合、開発者はCLを十分にテストして、コードレビューに到達するまでに正しく動作するようにすることが期待されます。ただし、レビュアーとしては、エッジケースを考え、並行性の問題を探し、ユーザーのように考え、コードを読むだけで見えるバグがないか確認する必要があります。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:16
+msgid ""
+"CLの動作を検証することもできますが、レビュアーがCLの動作をチェックするのは、**UIの変更**など、ユーザーに影響を与える変更の場合が最も重要です。コードを読むだけでは、どのような変更がユーザーにどのような影響を与えるかを理解するのは難しいです。そのような変更の場合、開発者にデモをしてもらうか、CLにパッチを当てて試すことができない場合は、機能のデモをしてもらうことができます。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:18
+msgid ""
+"また、コードレビュー中に特に機能性について考える必要があるのは、CLに理論的にデッドロックや競合状態を引き起こす可能性のある**並行プログラミング**が行われている場合です。これらの問題は、コードを実行するだけでは検出するのが非常に難しく、問題が導入されていないことを確認するために、開発者とレビュアーの両方が注意深く考える必要があります。（競合状態やデッドロックが発生する可能性のある並行性モデルを使用しないことは、コードレビューやコードの理解を非常に複雑にする可能性があるため、非常に重要な理由です。）"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:20
+msgid "複雑さ"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:22
+msgid ""
+"CLは必要以上に複雑ですか？CLの各レベルで確認してください。個々の行は複雑すぎますか？関数は複雑すぎますか？クラスは複雑すぎますか？「複雑すぎる」とは通常、「コード読み手がすぐに理解できない」という意味です。また、「開発者がこのコードを呼び出したり変更しようとすると、バグを発生させる可能性が高い」という意味もあります。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:24
+msgid ""
+"特定のタイプの複雑さは「過剰設計」です。開発者がコードを必要以上に一般化したり、現在のシステムで必要のない機能を追加したりしている場合です。レビュアーは特に過剰設計に対して警戒すべきです。開発者に対して、現在解決する必要のある問題を解決するように促し、将来解決するかもしれない問題ではなく、現在の問題を解決するようにしましょう。将来の問題は、実際の形状と要件を物理的な宇宙で確認できるようになった時に解決すべきです。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:26
+msgid "テスト"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:28
+msgid ""
+"変更に適した単体テスト、統合テスト、エンドツーエンドテストを要求してください。一般的には、テストは本番コードと同じCLに追加する必要がありますが、CLが[緊急事態](../emergencies.md)を処理している場合を除きます。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:30
+msgid ""
+"CL内のテストが正確で、意味のある、有用なものであることを確認してください。テストは自己テストを行いませんし、テストのためにテストを書くことはほとんどありません。人間がテストが有効であることを確認する必要があります。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:32
+msgid ""
+"コードが壊れたときにテストは実際に失敗しますか？コードが変更された場合、テストは誤った結果を出力し始めますか？各テストは単純で有用なアサーションを行っていますか？テストは異なるテストメソッド間で適切に分離されていますか？"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:34
+msgid "テストもメンテナンスが必要なコードですので、メインのバイナリの一部ではないためにテストに複雑さを受け入れないでください。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:36
+msgid "名前付け"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:38
+msgid ""
+"開発者はすべての要素に適切な名前を選びましたか？適切な名前は、アイテムの内容や機能を完全に伝えるのに十分な長さであり、読みにくくなるほど長くなっていませんか？"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:40
+msgid "コメント"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:42
+msgid ""
+"開発者は理解しやすい英語で明確なコメントを書いていますか？すべてのコメントが実際に必要ですか？通常、コメントはコードが存在する理由を説明するために使用され、コードが何をしているかを説明するためには使用されません。コード自体が十分に明確でない場合は、コードをよりシンプルにする必要があります。ただし、正規表現や複雑なアルゴリズムなどの場合は、自身のコードに含まれていない情報を説明するコメントが非常に役立つことがあります。ただし、ほとんどの場合、コメントは意思決定の背後にある理由など、コード自体に含まれない情報のために使用されます。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:44
+msgid ""
+"また、この変更リストの前にあったコメントも参考になる場合があります。今は削除できるTODOコメントや、この変更を行わないように忠告するコメントなどがあるかもしれません。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:46
+msgid "コメントは、クラス、モジュール、または関数のドキュメントとは異なり、コードの目的、使用方法、使用時の動作などを表現するべきです。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:48
+msgid "スタイル"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:50
+msgid ""
+"Googleでは、主要な言語だけでなく、ほとんどのマイナーな言語に対しても[スタイルガイド](http://google.github.io/styleguide/)があります。適切なスタイルガイドに従ってCLを作成してください。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:52
+msgid ""
+"スタイルガイドにないスタイルの改善をしたい場合は、「Nit:」という接頭辞をコメントに付けて、開発者にそれがコードを改善するための細かい指摘であることを伝えてください。個人的なスタイルの好みだけでCLの提出をブロックしないでください。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:54
+msgid ""
+"CLの作者は、主要なスタイルの変更を他の変更と組み合わせてはいけません。CLで何が変更されているかがわかりにくくなり、マージやロールバックが複雑になり、他の問題を引き起こします。たとえば、ファイル全体の書式を変更したい場合は、まず書式変更のみを含んだ別のCLを送り、その後に機能的な変更を含んだ別のCLを送ってください。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:56
+msgid "一貫性"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:58
+msgid ""
+"既存のコードがスタイルガイドと一貫していない場合はどうなりますか？[コードレビューの原則](standard.md#principles)によれば、スタイルガイドが絶対的な権威です。つまり、スタイルガイドで要求されているものは、CL（変更リスト）はガイドラインに従うべきです。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:60
+msgid ""
+"一部の場合、スタイルガイドは要件ではなく、推奨事項を示しています。これらの場合、新しいコードが推奨事項に従うべきか、周囲のコードに一貫性を持たせるべきかは判断に委ねられます。ローカルな一貫性が混乱を招く場合を除き、スタイルガイドに従うことを優先しましょう。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:62
+msgid "他のルールが適用されない場合は、著者は既存のコードと一貫性を保つべきです。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:64
+msgid "いずれの場合でも、著者に対してバグの報告と既存のコードの整理のためのTODOの追加を促してください。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:66
+msgid "ドキュメンテーション"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:68
+msgid ""
+"もしCLがユーザーがコードをビルド、テスト、操作、リリースする方法に変更を加える場合、関連するドキュメンテーション（README、g3docページ、生成されたリファレンスドキュメントなど）も更新されているか確認してください。もしCLがコードを削除または非推奨化する場合、ドキュメンテーションも削除すべきかどうか考えてください。 "
+"もしドキュメンテーションが不足している場合は、それを要求してください。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:71
+msgid "すべての行"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:73
+msgid ""
+"一般的な場合、レビューすることに割り当てられた_すべて_のコードの行を見てください。データファイルや生成されたコード、大きなデータ構造などは、時々スキャンすることができますが、人間が書いたクラス、関数、またはコードブロックをスキャンして、その中身が問題ないと仮定しないでください。 "
+"明らかに、あるコードは他のコードよりも注意深く調査する価値がありますが、それはあなたが判断しなければならないことです。少なくとも、すべてのコードが何をしているのかを_理解_していることを確認してください。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:76
+msgid ""
+"もしコードを読むのが難しく、それがレビューを遅らせている場合は、開発者にそれを伝えて、レビューする前にそれを明確にしてもらうように待ってください。Googleでは、優れたソフトウェアエンジニアを採用しています。あなたもその一人です。もしコードが理解できない場合、他の開発者も理解できない可能性が非常に高いです。ですので、開発者にそれを明確にしてもらうことで、将来の開発者がこのコードを理解するのを助けることにもなります。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:78
+msgid ""
+"もしコードが理解できるけれども、レビューの一部を適任と感じない場合は、[レビュアーがいることを確認してください](#every-line-exceptions)。特にプライバシーやセキュリティ、並行性、アクセシビリティ、国際化などの複雑な問題については、適任なレビュアーがいることを確認してください。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:80
+msgid "例外"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:82
+msgid ""
+"もし、すべての行をレビューすることが意味をなさない場合はどうなりますか？ "
+"例えば、あなたがCLの複数のレビュワーのうちの一人であり、次のような要求がある場合です。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:84
+msgid "大きな変更の一部である特定のファイルのみをレビューするように求められる場合。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:85
+msgid "高レベルの設計、プライバシーやセキュリティの影響など、CLの特定の側面のみをレビューするように求められる場合。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:87
+msgid ""
+"これらの場合、レビューした部分をコメントで明記してください。[コメント付きのLGTM](speed.md#lgtm-with-comments)を優先してください。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:89
+msgid ""
+"もし、他のレビュワーがCLの他の部分をレビューしたことを確認した後にLGTMを与えたい場合は、それを明示的にコメントで記述して、期待値を設定してください。CLが望ましい状態に達したら、[迅速に応答](speed.md#responses)することを目指してください。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:91
+msgid "文脈"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:93
+msgid ""
+"CLを広い文脈で見ることは、しばしば役立ちます。通常、コードレビューツールは、変更される部分の周りの数行のコードしか表示しません。実際に変更が意味をなしているかどうかを確認するには、ファイル全体を見る必要があることもあります。たとえば、追加されるのはわずか4行のコードだけかもしれませんが、ファイル全体を見ると、その4行が50行のメソッドにあることがわかり、このメソッドをより小さなメソッドに分割する必要があることがわかります。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:95
+msgid ""
+"また、CLをシステム全体の文脈で考えることも有用です。このCLはシステムのコードの健全性を向上させているのか、システム全体をより複雑にしたり、テストが少なくなったりしているのか、などを考えると良いでしょう。\\*\\*システムのコードの健全性を損なうCLは受け入れないでください。\\*\\*ほとんどのシステムは、多くの小さな変更を通じて複雑になっていくため、新しい変更においても小さな複雑さを防ぐことが重要です。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:97
+msgid "良いこと"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:99
+msgid ""
+"もしCLで素敵なものを見つけたら、開発者に伝えてください。特に、彼らがあなたのコメントに素晴らしい方法で対応した場合は。コードレビューはしばしばミスに焦点を当てますが、良い実践に対する励ましと感謝も提供すべきです。開発者に何が間違っているかを伝えるよりも、彼らが何を正しく行ったかを伝える方が、メンタリングの観点からはさらに価値があります。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:101
+#: src/ja/review/reviewer/navigate.md:5 src/ja/review/reviewer/comments.md:4
+msgid "概要"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:103
+msgid "コードレビューを行う際には、以下の点に注意してください："
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:105
+msgid "コードがよく設計されていること。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:106
+msgid "機能がコードのユーザーにとって良いものであること。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:107
+msgid "UIの変更が合理的で見栄えが良いこと。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:108
+msgid "並行プログラミングが安全に行われていること。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:109
+msgid "コードが必要以上に複雑でないこと。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:110
+msgid "開発者が将来必要になるかもしれないものを実装していないこと。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:111
+msgid "コードに適切な単体テストがあること。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:112
+msgid "テストがよく設計されていること。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:113
+msgid "開発者がすべての要素にわかりやすい名前を付けていること。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:114
+msgid "コメントが明確で有用であり、主に「なぜ」を説明していること。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:115
+msgid "コードが適切にドキュメント化されていること（一般的にはg3docで）。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:116
+msgid "コードがスタイルガイドに準拠していること。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:118
+msgid ""
+"レビューを依頼されたコードの**すべての行**を確認し、**文脈**を考慮し、コードの健全性を**向上**させ、開発者が行った**良い点**を褒めるようにしてください。"
+msgstr ""
+
+#: src/ja/review/reviewer/looking-for.md:120
+msgid "次: [レビュー中のCLのナビゲーション](navigate.md)"
+msgstr ""
+
+#: src/ja/review/reviewer/navigate.md:7
+msgid "複数のファイルにまたがるレビューを効率的に管理するための方法は何でしょうか？"
+msgstr ""
+
+#: src/ja/review/reviewer/navigate.md:9
+msgid "変更内容は理解できますか？[説明](../developer/cl-descriptions.md)は適切ですか？"
+msgstr ""
+
+#: src/ja/review/reviewer/navigate.md:10
+msgid "変更の最も重要な部分を最初に見てください。全体的には設計が良いですか？"
+msgstr ""
+
+#: src/ja/review/reviewer/navigate.md:11
+msgid "適切な順序でCLの残りの部分を見てください。"
+msgstr ""
+
+#: src/ja/review/reviewer/navigate.md:13
+msgid "ステップ1: 変更の広い視点を持つ"
+msgstr ""
+
+#: src/ja/review/reviewer/navigate.md:15
+msgid ""
+"まず、[CLの説明](../developer/cl-descriptions.md)を見て、このCLが一般的に意味をなしているかどうかを確認してください。この変更が最初から行われるべきではなかった場合は、なぜこの変更が行われるべきではないのかについてすぐに説明してください。このような変更を拒否する際には、開発者に代わりに何をすべきかを提案することも良いアイデアです。"
+msgstr ""
+
+#: src/ja/review/reviewer/navigate.md:17
+msgid ""
+"例えば、「この変更には良い仕事がされているようですね、ありがとうございます！ただし、私たちは実際にはここで修正しているFooWidgetシステムを削除する方向に進んでいるため、現在それに新たな修正を加えたくありません。代わりに、新しいBarWidgetクラスをリファクタリングすることはいかがでしょうか？」"
+msgstr ""
+
+#: src/ja/review/reviewer/navigate.md:19
+msgid ""
+"レビュアーは現在のCLを拒否し、代わりの提案を行っただけでなく、それを_礼儀正しく_行いました。このような礼儀正しさは重要です。なぜなら、私たちは意見が異なる場合でも、開発者として互いを尊重することを示したいからです。"
+msgstr ""
+
+#: src/ja/review/reviewer/navigate.md:21
+msgid ""
+"もし、望ましくない変更を表すCLが数多くある場合は、チームの開発プロセスや外部貢献者向けの投稿プロセスを見直し、CLが書かれる前により多くのコミュニケーションが行われるようにすることを検討してください。人々に「いいえ」と伝えることは、彼らが大量の作業を行い、それを捨てるか大幅に書き直さなければならなくなる前に伝える方が良いです。"
+msgstr ""
+
+#: src/ja/review/reviewer/navigate.md:23
+msgid "ステップ2: CLの主要な部分を調べる"
+msgstr ""
+
+#: src/ja/review/reviewer/navigate.md:25
+msgid ""
+"このCLの「主要な」部分となるファイルまたはファイルを見つけてください。通常、論理的な変更が最も多いファイルがあり、それがCLの主要な部分です。まずはこれらの主要な部分を見てください。これにより、CLのすべての小さな部分の文脈がわかり、コードレビューのスピードが向上します。CLが大きすぎて、どの部分が主要な部分かわからない場合は、開発者に最初に何を見るべきか尋ねるか、CLを複数のCLに分割するように依頼してください。"
+msgstr ""
+
+#: src/ja/review/reviewer/navigate.md:27
+msgid ""
+"この部分のCLに重大な設計上の問題が見つかった場合は、すぐにそれらのコメントを送信してください。今すぐCLの残りをレビューする時間がなくても、重要な設計上の問題がある場合は、CLの残りのコードをレビューすることは時間の無駄かもしれません。実際、重大な設計上の問題がある場合、レビュー対象の他のコードの多くは消えて問題にならない可能性があります。"
+msgstr ""
+
+#: src/ja/review/reviewer/navigate.md:29
+msgid "これらの重大な設計上のコメントをすぐに送信することが非常に重要な理由は2つあります："
+msgstr ""
+
+#: src/ja/review/reviewer/navigate.md:31
+msgid ""
+"開発者は通常、CLをメールで送信した後、レビューを待ちながら新しい作業をすぐに開始します。レビュー中のCLに重大な設計上の問題がある場合、後のCLの再作業も行わなければなりません。問題のある設計の上に余分な作業を行う前に、それらを見つける必要があります。"
+msgstr ""
+
+#: src/ja/review/reviewer/navigate.md:32
+msgid ""
+"大規模な設計変更は、小規模な変更よりも時間がかかります。開発者はほぼすべての締め切りを持っています。それらの締め切りを守りながら、コードベースに品質の高いコードを残すためには、開発者はCLの重大な再作業をできるだけ早く開始する必要があります。"
+msgstr ""
+
+#: src/ja/review/reviewer/navigate.md:34
+msgid "ステップ3: 適切な順序でCLの残りを確認する"
+msgstr ""
+
+#: src/ja/review/reviewer/navigate.md:36
+msgid ""
+"CL全体に大きな設計上の問題がないことを確認したら、各ファイルを見逃さずにレビューするための論理的な順序を考えてみてください。通常、主要なファイルを見た後は、コードレビューツールが提示する順序で各ファイルを見るのが最も簡単です。時には、メインのコードを読む前にテストを先に読むと、変更が何をするものかのアイデアが得られることもあります。"
+msgstr ""
+
+#: src/ja/review/reviewer/navigate.md:38
+msgid "次: [コードレビューの速度](speed.md)"
+msgstr ""
+
+#: src/ja/review/reviewer/speed.md:1
+msgid "コードレビューの速度について"
+msgstr ""
+
+#: src/ja/review/reviewer/speed.md:3
+msgid "なぜコードレビューを迅速に行うべきか"
+msgstr ""
+
+#: src/ja/review/reviewer/speed.md:5
+msgid ""
+"**Googleでは、開発者チームが一緒に製品を生産する速度を最適化します**。これは、個々の開発者がコードを書く速度を最適化することとは対照的です。個々の開発速度も重要ですが、チーム全体の速度ほどではありません。"
+msgstr ""
+
+#: src/ja/review/reviewer/speed.md:7
+msgid "コードレビューが遅いと、いくつかの問題が生じます："
+msgstr ""
+
+#: src/ja/review/reviewer/speed.md:9
+msgid ""
+"**チーム全体の速度が低下します。** "
+"レビューにすぐに対応しない個人は他の仕事を進めるかもしれません。しかし、チームの残りの部分にとっての新機能やバグ修正は、各CLがレビューと再レビューを待つ間、日、週、または月単位で遅れます。"
+msgstr ""
+
+#: src/ja/review/reviewer/speed.md:10
+msgid ""
+"**開発者がコードレビュープロセスに抗議し始めます。** "
+"レビュアーが数日おきにしか反応せず、その都度CLに大きな変更を要求する場合、それは開発者にとってイライラすることであり、困難です。しばしば、これは「レビュアーが厳しすぎる」という不満として表現されます。レビュアーが開発者が更新を行うたびに_迅速に_同じ重要な変更（実際にコードの健全性を向上させる変更）を要求する場合、不満は消える傾向があります。**コードレビュープロセスに関するほとんどの不満は、プロセスを迅速にすることで実際に解決されます。**"
+msgstr ""
+
+#: src/ja/review/reviewer/speed.md:11
+msgid ""
+"**コードの健全性に影響を与える可能性があります。** "
+"レビューが遅いと、開発者がそれほど良くないCLを提出する圧力が増します。遅いレビューは、コードのクリーンアップ、リファクタリング、および既存のCLへのさらなる改善を抑制する傾向があります。"
+msgstr ""
+
+#: src/ja/review/reviewer/speed.md:13
+msgid "コードレビューはどれくらいの速さであるべきか"
+msgstr ""
+
+#: src/ja/review/reviewer/speed.md:15
+msgid "集中しているタスクの最中でない限り、**コードレビューは受け取った直後に行うべきです。**"
+msgstr ""
+
+#: src/ja/review/reviewer/speed.md:17
+msgid "コードレビュー要求に対して反応する最大時間は**1営業日です**（つまり、翌朝の最初の時間）。"
+msgstr ""
+
+#: src/ja/review/reviewer/speed.md:19
+msgid "これらのガイドラインに従うと、典型的なCLは必要に応じて1日以内に複数ラウンドのレビューを受けることになります。"
+msgstr ""
+
+#: src/ja/review/reviewer/speed.md:21 src/en/review/reviewer/speed.md:42
+msgid "Speed vs. Interruption"
+msgstr ""
+
+#: src/ja/review/reviewer/speed.md:23
+msgid ""
+"個人の作業速度がチームの速度を上回るべき唯一の時があります。**コードを書くなど、集中している作業の最中に、自分を中断してコードレビューを行うべきではありません。** "
+"研究によると、中断された後に開発のスムーズな流れに戻るまでには、開発者に長い時間がかかることが示されています。従って、コーディング中に自分自身を中断することは、他の開発者がコードレビューを少し待たされることよりも、実際にはチームにとって_より_コストがかかることになります。"
+msgstr ""
+
+#: src/ja/review/reviewer/speed.md:26
+msgid ""
+"代わりに、作業の中断点でレビューの依頼に応答することを待ちます。これは、現在のコーディングタスクが完了した時、ランチ後、会議から戻った時、休憩室から戻ってきた時などが該当します。"
+msgstr ""
+
+#: src/ja/review/reviewer/speed.md:28
+msgid "迅速な対応"
+msgstr ""
+
+#: src/ja/review/reviewer/speed.md:30
+msgid ""
+"コードレビューの速度について話す際、私たちが関心を持っているのは、CLがレビューを通過して提出されるまでにかかる時間ではなく、_対応_の時間です。全プロセスも理想的には速いべきですが、**個々の対応が迅速に行われることの方が、全プロセスが迅速に行われることよりもさらに重要です。**"
+msgstr ""
+
+#: src/ja/review/reviewer/speed.md:32
+msgid ""
+"たとえ全体のレビュー_プロセス_を通過するのに時々長い時間がかかる場合でも、プロセス全体を通じてレビュアーからの迅速な対応があることで、「遅い」と感じる開発者のフラストレーションが大幅に軽減されます。"
+msgstr ""
+
+#: src/ja/review/reviewer/speed.md:34
+msgid ""
+"CLが到着した時に完全なレビューを行うのにあまりにも忙しい場合でも、いつ対応できるか開発者に知らせる迅速な返答を送ったり、より迅速に対応できる可能性のある他のレビュアーを提案したり、[いくつかの初期の広範なコメントを提供する](navigate.md)ことができます。（注意：これは、このような返答を送るためにさえコーディングを中断すべきだという意味ではありません。作業の合理的な中断点で返答を送ってください。）"
+msgstr ""
+
+#: src/ja/review/reviewer/speed.md:36
+msgid ""
+"**レビュアーがレビューに十分な時間を費やし、「LGTM」が「このコードは[私たちの基準](standard.md)を満たしている」ということを確信していることが重要です。** "
+"しかし、個々の対応は理想的には[迅速](#fast)であるべきです。"
+msgstr ""
+
+#: src/ja/review/reviewer/speed.md:38
+msgid "時差を考慮したレビュー"
+msgstr ""
+
+#: src/ja/review/reviewer/speed.md:40
+msgid ""
+"時差の差を扱う際は、彼らがその日の業務時間内に返答できるように、著者に返答しようと努めてください。彼らがすでにその日の業務を終えていた場合は、彼らが翌日の業務を開始する前にレビューを完了させるようにしてください。"
+msgstr ""
+
+#: src/ja/review/reviewer/speed.md:43
+msgid "コメント付きLGTM"
+msgstr ""
+
+#: src/ja/review/reviewer/speed.md:45
+msgid ""
+"コードレビューを迅速に進めるため、レビュアーが未解決のコメントを残しつつもLGTM/承認を出すべき特定の状況があります。これは以下のいずれかの場合に行われます："
+msgstr ""
+
+#: src/ja/review/reviewer/speed.md:47
+msgid "レビュアーが開発者が全ての残りのコメントを適切に対処すると確信している場合。"
+msgstr ""
+
+#: src/ja/review/reviewer/speed.md:48
+msgid "残りの変更が些細で、開発者が必ずしも行う必要はない場合。"
+msgstr ""
+
+#: src/ja/review/reviewer/speed.md:50
+msgid "レビュアーは、どちらのオプションを意図しているかを明確に指定すべきです（それが明確でない場合）。"
+msgstr ""
+
+#: src/ja/review/reviewer/speed.md:52
+msgid ""
+"開発者とレビュアーが異なるタイムゾーンにいて、開発者が「LGTM、承認」を得るために1日待たなければならない場合には、特にコメント付きLGTMを検討する価値があります。"
+msgstr ""
+
+#: src/ja/review/reviewer/speed.md:54
+msgid "大きなCL"
+msgstr ""
+
+#: src/ja/review/reviewer/speed.md:56
+msgid ""
+"あなたにとても大きなコードレビューが送られてきて、いつレビューできるか分からない場合、通常の対応は開発者に[CLをいくつかの小さなCLに分割する](../developer/small-cls.md)よう依頼することです。これは、開発者に追加の作業が必要であっても、通常は可能であり、レビュアーにとって非常に役立ちます。"
+msgstr ""
+
+#: src/ja/review/reviewer/speed.md:58
+msgid ""
+"CLを小さなCLに分割_できない_場合、そしてあなたがすぐに全体をレビューする時間がない場合は、少なくともCLの全体的な設計についていくつかのコメントを書き、改善のために開発者に返送してください。レビュアーとしてのあなたの目標の1つは、コードの健全性を犠牲にすることなく、常に開発者のブロックを解除するか、迅速に何らかの行動を取ることができるようにすることです。"
+msgstr ""
+
+#: src/ja/review/reviewer/speed.md:60
+msgid "時間と共に改善されるコードレビュー"
+msgstr ""
+
+#: src/ja/review/reviewer/speed.md:62
+msgid ""
+"これらのガイドラインに従い、コードレビューに厳格であれば、コードレビュープロセス全体が時間とともにますます速くなることがわかるでしょう。開発者は健全なコードに必要なことを学び、最初から素晴らしいCLを送ってくるようになり、レビュー時間がますます少なくなります。レビュアーは迅速に対応し、レビュープロセスに不必要な遅延を加えないように学びます。 "
+"しかし、**速度の想像される改善のために[コードレビュー基準](standard.md)や品質を妥協しないでください**—それは実際には何も早く進めることはありません、長い目で見れば。"
+msgstr ""
+
+#: src/ja/review/reviewer/speed.md:67
+msgid ""
+"CLが非常に迅速に_全_レビュープロセスを通過しなければならない[緊急事態](../emergencies.md)もあり、その場合は品質ガイドラインが緩和されるかもしれません。しかし、どの状況が実際に緊急事態として資格があるか、そしてどれがそうでないかについての説明は、[何が緊急事態か？](../emergencies.md#what)をご覧ください。"
+msgstr ""
+
+#: src/ja/review/reviewer/speed.md:69
+msgid "次: [コードレビューコメントの書き方](comments.md)"
+msgstr ""
+
+#: src/ja/review/reviewer/comments.md:6
+msgid "優しくあれ。"
+msgstr ""
+
+#: src/ja/review/reviewer/comments.md:7
+msgid "理由を説明しろ。"
+msgstr ""
+
+#: src/ja/review/reviewer/comments.md:8
+msgid "問題を指摘するだけでなく、明確な指示と開発者が自分で決めることのバランスを取ろう。"
+msgstr ""
+
+#: src/ja/review/reviewer/comments.md:9
+msgid "複雑さを説明するだけでなく、開発者にコードを簡素化したり、コメントを追加するように促そう。"
+msgstr ""
+
+#: src/ja/review/reviewer/comments.md:11
+msgid "礼儀"
+msgstr ""
+
+#: src/ja/review/reviewer/comments.md:13
+msgid ""
+"一般的に、[礼儀正しく尊重する](https://chromium.googlesource.com/chromium/src/+/master/docs/cr_respect.md)ことは重要です。同時に、コードをレビューしている開発者に対して明確かつ助けになるコメントをすることも重要です。これを実践する方法の一つは、常にコードについてコメントをすることであり、開発者についてのコメントは避けることです。常にこの慣行に従う必要はありませんが、不快感や論争を引き起こす可能性のあることを言う場合には、特にこの慣行を使用するべきです。例えば："
+msgstr ""
+
+#: src/ja/review/reviewer/comments.md:15
+msgid "悪い例: \"なぜ**あなた**はここでスレッドを使用したのですか？明らかに並行性から得られる利益はありません。\""
+msgstr ""
+
+#: src/ja/review/reviewer/comments.md:17
+msgid ""
+"良い例: "
+"\"ここでの並行性モデルは、実際のパフォーマンスの利益が見当たらないまま、システムに複雑さを追加しています。パフォーマンスの利益がないため、このコードは複数のスレッドを使用するのではなく、シングルスレッドであることが最善です。\""
+msgstr ""
+
+#: src/ja/review/reviewer/comments.md:19
+msgid "なぜ説明するのか"
+msgstr ""
+
+#: src/ja/review/reviewer/comments.md:21
+msgid ""
+"上記の「良い」例について気づくことがあるでしょう。それは、コメントをする理由を開発者に理解させるのに役立つということです。レビューコメントにこの情報を常に含める必要はありませんが、時には意図やベストプラクティス、提案がコードの品質向上にどのように寄与するかについて少し説明することが適切な場合もあります。"
+msgstr ""
+
+#: src/ja/review/reviewer/comments.md:23
+msgid "ガイダンスの提供"
+msgstr ""
+
+#: src/ja/review/reviewer/comments.md:25
+msgid ""
+"**一般的に、CLの修正は開発者の責任であり、レビュアーの責任ではありません。** 解決策の詳細な設計や開発者のためのコードの記述は必要ありません。"
+msgstr ""
+
+#: src/ja/review/reviewer/comments.md:27
+msgid ""
+"ただし、レビュアーは無力ではあってはなりません。一般的には、問題を指摘し、直接的なガイダンスを提供する適切なバランスを取るべきです。問題を指摘し、開発者に決定を任せることは、開発者が学ぶのに役立ち、コードレビューを行いやすくすることができます。また、開発者はレビュアーよりもコードに近いため、より良い解決策につながることもあります。"
+msgstr ""
+
+#: src/ja/review/reviewer/comments.md:29
+msgid ""
+"ただし、時には直接的な指示、提案、またはコードの提供の方が役立つこともあります。コードレビューの主な目標は、最も優れたCLを得ることです。第二の目標は、開発者のスキルを向上させ、時間の経過とともにますます少ないレビューが必要となるようにすることです。"
+msgstr ""
+
+#: src/ja/review/reviewer/comments.md:31
+msgid ""
+"人々は、自分がうまくやっていることを強化されることから学びます。ただし、改善できる点だけでなく、CLで好きな点もコメントしてください！例えば、開発者が乱雑なアルゴリズムを整理した、模範的なテストカバレッジを追加した、またはレビュアー自身がCLから何かを学んだなどです。すべてのコメントと同様に、なぜそのような点が好きなのかを含めて、開発者に良い慣行を続けるようにさらに促すことが重要です。"
+msgstr ""
+
+#: src/ja/review/reviewer/comments.md:33
+msgid "ラベルコメントの重要度"
+msgstr ""
+
+#: src/ja/review/reviewer/comments.md:35
+msgid "コメントの重要度をラベル付けして、必要な変更とガイドラインや提案を区別することを検討してください。"
+msgstr ""
+
+#: src/ja/review/reviewer/comments.md:37
+msgid "以下にいくつかの例を示します："
+msgstr ""
+
+#: src/ja/review/reviewer/comments.md:39
+msgid "Nit: これは小さなことです。技術的にはやるべきですが、大きな影響はありません。"
+msgstr ""
+
+#: src/ja/review/reviewer/comments.md:41
+msgid "Optional (または Consider): これは良いアイデアかもしれませんが、厳密には必要ではありません。"
+msgstr ""
+
+#: src/ja/review/reviewer/comments.md:43
+msgid "FYI: このCLではこれをやることは期待していませんが、将来的に考えるのに興味深いかもしれません。"
+msgstr ""
+
+#: src/ja/review/reviewer/comments.md:45
+msgid ""
+"これにより、レビューの意図が明確になり、著者がさまざまなコメントの重要性を優先順位付けするのに役立ちます。また、誤解を避けるのにも役立ちます。たとえば、コメントにラベルがない場合、著者はすべてのコメントを必須と解釈するかもしれませんが、実際には情報提供やオプションのコメントである場合もあります。"
+msgstr ""
+
+#: src/ja/review/reviewer/comments.md:47
+msgid "説明の受け入れ"
+msgstr ""
+
+#: src/ja/review/reviewer/comments.md:49
+msgid ""
+"もし開発者に理解できないコードの説明を求めると、通常は彼らが**コードをより明確に書き直す**ことになるはずです。 "
+"時には、コードにコメントを追加することも適切な対応ですが、それが単に過度に複雑なコードを説明するだけでない限りです。"
+msgstr ""
+
+#: src/ja/review/reviewer/comments.md:52
+msgid ""
+"**コードレビューツールだけで書かれた説明は、将来のコード読者にとって役に立ちません。** "
+"それらは、通常のコードの読者が既に知っていることを開発者が説明する場合など、一部の状況でのみ受け入れられます。"
+msgstr ""
+
+#: src/ja/review/reviewer/comments.md:54
+msgid "次: [コードレビューでの反対意見の扱い方](pushback.md)"
+msgstr ""
+
+#: src/ja/review/reviewer/pushback.md:3
+msgid "時には、開発者がコードレビューに反発することがあります。彼らはあなたの提案に同意しないか、一般的にあなたが厳しすぎると不満を述べるかもしれません。"
+msgstr ""
+
+#: src/ja/review/reviewer/pushback.md:5
+msgid "誰が正しいのか？"
+msgstr ""
+
+#: src/ja/review/reviewer/pushback.md:7
+msgid ""
+"開発者があなたの提案に反対する場合、まず彼らが正しいかどうかを考えてみてください。彼らはあなたよりもコードに近いことが多いため、特定の側面についてより良い洞察を持っているかもしれません。彼らの主張は理にかなっていますか？コードの健全性の観点からも理にかなっていますか？もしそうなら、彼らに正しいと伝え、問題を解決させましょう。"
+msgstr ""
+
+#: src/ja/review/reviewer/pushback.md:9
+msgid ""
+"しかし、開発者が常に正しいわけではありません。この場合、レビュアーはなぜ自分の提案が正しいと考えているのか、さらに説明する必要があります。良い説明は、開発者の返信を理解していることと、変更がなぜ要求されているのかについての追加情報を示します。"
+msgstr ""
+
+#: src/ja/review/reviewer/pushback.md:11
+msgid ""
+"特に、レビュアーが自分の提案がコードの健全性を向上させると信じている場合、結果としてのコード品質の向上が追加の作業を正当化すると考えるなら、変更を推進し続けるべきです。**コードの健全性の向上は、小さなステップで行われる傾向があります。**"
+msgstr ""
+
+#: src/ja/review/reviewer/pushback.md:13
+msgid ""
+"時には、提案を説明するのに数回のやり取りが必要なこともあります。ただし、常に[礼儀正しく](comments.md#courtesy)、開発者に彼らの言っていることを_聞いている_ことを伝え、ただ_同意しない_ことを伝えましょう。"
+msgstr ""
+
+#: src/ja/review/reviewer/pushback.md:15
+msgid "開発者を不快にさせること"
+msgstr ""
+
+#: src/ja/review/reviewer/pushback.md:17
+msgid ""
+"レビュアーは、開発者が改善を求められると不快になると考えることがあります。開発者は時には不快になることもありますが、それは一時的なものであり、後であなたが彼らのコードの品質向上に役立ったことに非常に感謝します。通常、コメントが[礼儀正しい](comments.md#courtesy)場合、開発者は実際には全く不快にならず、心配はレビュアーの心の中にあるだけです。不快感は通常、コメントの書き方よりもコードの品質に対するレビュアーの主張に関連しています。"
+msgstr ""
+
+#: src/ja/review/reviewer/pushback.md:19
+msgid "後で片付ける"
+msgstr ""
+
+#: src/ja/review/reviewer/pushback.md:21
+msgid ""
+"開発者たちは（当然のことながら）仕事を進めたいと思っているため、抵抗が生じることがよくあります。彼らはこのCLを提出するためにもう一度レビューを受けたくないのです。そのため、後で何かをきれいにすると言って、今すぐこのCLを承認してほしいと言います。一部の開発者はこれに非常にうまく対応し、すぐに問題を修正するための追加のCLを書きます。しかし、経験からわかるように、開発者が元のCLを書いた後に時間が経つほど、このクリーンアップが行われる可能性は低くなります。実際、開発者が現在のCLの直後にクリーンアップを行わない限り、ほとんど行われません。これは開発者が無責任なわけではなく、他の仕事の中でクリーンアップが見失われたり忘れられたりするためです。したがって、コードがコードベースに組み込まれて「完了」する前に、開発者にCLのクリーンアップを行うように強く求めるのが通常最善です。後で「片付ける」ということを許すことは、コードベースが劣化する一般的な方法です。"
+msgstr ""
+
+#: src/ja/review/reviewer/pushback.md:23
+msgid ""
+"もしCLが新たな複雑さを導入する場合、[緊急事態](../emergencies.md)でない限り、提出前にクリーンアップする必要があります。もしCLが周囲の問題を露呈し、現時点では対処できない場合、開発者はクリーンアップのためのバグを報告し、自分自身に割り当てるべきです。また、コードにTODOコメントを書いて、報告されたバグを参照することもできます。"
+msgstr ""
+
+#: src/ja/review/reviewer/pushback.md:25
+msgid "厳格さに関する一般的な苦情"
+msgstr ""
+
+#: src/ja/review/reviewer/pushback.md:27
+msgid ""
+"以前は比較的緩いコードレビューを行っていた場合、厳格なレビューに切り替えると、一部の開発者は非常に大きな苦情を言うことがあります。コードレビューの速度を改善することで、これらの苦情はしだいに薄れていくことがあります。"
+msgstr ""
+
+#: src/ja/review/reviewer/pushback.md:29
+msgid ""
+"これらの苦情が薄れるまでには、数ヶ月かかることもありますが、開発者たちは徐々に厳格なコードレビューの価値を認識し、優れたコードを生成するのにどれほど役立つかを見るようになります。時には、一番声の大きい抗議者が、厳格さによって提供される価値を本当に理解するきっかけが起きたときに、最も強力な支持者になることさえあります。"
+msgstr ""
+
+#: src/ja/review/reviewer/pushback.md:33
+msgid ""
+"もし上記のすべてを守っているにもかかわらず、解決できない開発者との紛争に直面した場合は、 "
+"紛争を解決するのに役立つガイドラインと原則については、[コードレビューの基準](standard.md)を参照してください。"
+msgstr ""
+
+#: src/ja/review/emergencies.md:3
+msgid "時には、できるだけ早く全体のコードレビュープロセスを通過する必要がある緊急CLがあります。"
+msgstr ""
+
+#: src/ja/review/emergencies.md:5
+msgid "緊急事態とは何ですか？"
+msgstr ""
+
+#: src/ja/review/emergencies.md:7
+msgid ""
+"緊急事態のCLは、以下のような**小さな**変更です：メジャーローンチをロールバックせずに続行できるようにする、本番環境のユーザーに重大な影響を与えるバグを修正する、緊急の法的問題を処理する、重大なセキュリティホールを閉じるなどです。"
+msgstr ""
+
+#: src/ja/review/emergencies.md:9
+msgid ""
+"緊急事態では、コードレビュー全体のスピードに本当に気を使います。ただし、[レビュアーのスピード](reviewer/speed.md)だけでなく、コードの正確性（緊急事態を解決するかどうか）についても、他の何よりも重視すべきです。また、（おそらく明らかですが）このようなレビューは、発生した場合には他のすべてのコードレビューよりも優先されるべきです。"
+msgstr ""
+
+#: src/ja/review/emergencies.md:11
+msgid ""
+"ただし、緊急事態が解決された後は、緊急事態のCLを再度見直し、[より詳細なレビュー](reviewer/looking-for.md)を行う必要があります。"
+msgstr ""
+
+#: src/ja/review/emergencies.md:13
+msgid "緊急ではないものは何ですか？"
+msgstr ""
+
+#: src/ja/review/emergencies.md:15
+msgid "明確に述べると、以下の場合は_緊急ではありません_："
+msgstr ""
+
+#: src/ja/review/emergencies.md:17
+msgid "来週ではなく今週にローンチしたいということ（ただし、パートナーとの合意など、実際の[厳しい締切](#deadlines)がある場合を除く）。"
+msgstr ""
+
+#: src/ja/review/emergencies.md:18
+msgid "開発者が長い時間をかけて機能を開発し、CLを取得したいと思っている場合。"
+msgstr ""
+
+#: src/ja/review/emergencies.md:19
+msgid "レビューアーが現在夜間である別のタイムゾーンにいるか、オフサイトで不在である場合。"
+msgstr ""
+
+#: src/ja/review/emergencies.md:20
+msgid "金曜日の終わりであり、開発者が週末に出発する前にこのCLを取得するのが良いと思われる場合。"
+msgstr ""
+
+#: src/ja/review/emergencies.md:21
+msgid ""
+"マネージャーが、[ソフト（厳しいではない）締切](#deadlines)のため、このレビューを完了し、CLを今日中にチェックインする必要があると言っている場合。"
+msgstr ""
+
+#: src/ja/review/emergencies.md:22
+msgid "テストの失敗やビルドの破損を引き起こしているCLをロールバックする場合。"
+msgstr ""
+
+#: src/ja/review/emergencies.md:24
+msgid "などなど。"
+msgstr ""
+
+#: src/ja/review/emergencies.md:26
+msgid "ハードデッドラインとは何ですか？"
+msgstr ""
+
+#: src/ja/review/emergencies.md:28
+msgid "ハードデッドラインとは、もしもそれを逃すと**何か災害的なことが起こる**というものです。例えば："
+msgstr ""
+
+#: src/ja/review/emergencies.md:30
+msgid "特定の日までにCLを提出することは契約上の義務です。"
+msgstr ""
+
+#: src/ja/review/emergencies.md:31
+msgid "特定の日までに製品をリリースしなければ、市場で完全に失敗します。"
+msgstr ""
+
+#: src/ja/review/emergencies.md:32
+msgid ""
+"一部のハードウェアメーカーは年に一度しか新しいハードウェアを出荷しません。彼らにコードを提出する期限を逃すと、提出しようとしているコードの種類によっては、それが災害的な結果をもたらす可能性があります。"
+msgstr ""
+
+#: src/ja/review/emergencies.md:34
+msgid "リリースを1週間遅らせることは災害的ではありません。重要な会議を逃すことは災害的かもしれませんが、しばしばそうではありません。"
+msgstr ""
+
+#: src/ja/review/emergencies.md:36
+msgid ""
+"ほとんどの締め切りは、ハードデッドラインではなく、ソフトデッドラインです。それらは特定の時間までに機能が完了することを望んでいます。重要ですが、それを達成するためにコードの品質を犠牲にするべきではありません。"
+msgstr ""
+
+#: src/ja/review/emergencies.md:38
+msgid ""
+"リリースサイクルが長い（数週間）場合、次のサイクルの前に機能を追加するためにコードレビューの品質を犠牲にすることは誘惑されるかもしれません。しかし、このパターンは、プロジェクトが圧倒的な技術的負債を蓄積する一般的な方法です。開発者がサイクルの終わり近くに「絶対に入れなければならない」という理由だけで表面的なレビューだけでCLを提出し続ける場合、チームはプロセスを変更して、大規模な機能変更がサイクルの初めに行われ、十分な時間があるようにすべきです。"
+msgstr ""
+
+#: src/en/index.md:3
+msgid ""
+"Google has many generalized engineering practices that cover all languages "
+"and all projects. These documents represent our collective experience of "
+"various best practices that we have developed over time. It is possible that "
+"open source projects or other organizations would benefit from this "
+"knowledge, so we work to make it available publicly when possible."
+msgstr ""
+
+#: src/en/index.md:9
+msgid "Currently this contains the following documents:"
+msgstr ""
+
+#: src/en/index.md:11
+msgid ""
+"[Google's Code Review Guidelines](review/index.md), which are actually two "
+"separate sets of documents:"
+msgstr ""
+
+#: src/en/index.md:13
+msgid "[The Code Reviewer's Guide](review/reviewer/index.md)"
+msgstr ""
+
+#: src/en/index.md:14
+msgid "[The Change Author's Guide](review/developer/index.md)"
+msgstr ""
+
+#: src/en/index.md:16
+msgid "Terminology"
+msgstr ""
+
+#: src/en/index.md:18
+msgid ""
+"There is some Google-internal terminology used in some of these documents, "
+"which we clarify here for external readers:"
+msgstr ""
+
+#: src/en/index.md:21
+msgid ""
+"**CL**: Stands for \"changelist\", which means one self-contained change "
+"that has been submitted to version control or which is undergoing code "
+"review. Other organizations often call this a \"change\", \"patch\", or "
+"\"pull-request\"."
+msgstr ""
+
+#: src/en/index.md:24
+msgid ""
+"**LGTM**: Means \"Looks Good to Me\". It is what a code reviewer says when "
+"approving a CL."
+msgstr ""
+
+#: src/en/index.md:27
+msgid "License"
+msgstr ""
+
+#: src/en/index.md:29
+msgid ""
+"The documents in this project are licensed under the [CC-By 3.0 "
+"License](LICENSE), which encourages you to share these documents. See "
+"<https://creativecommons.org/licenses/by/3.0/> for more details."
+msgstr ""
+
+#: src/en/review/index.md:4
+msgid ""
+"A code review is a process where someone other than the author(s) of a piece "
+"of code examines that code."
+msgstr ""
+
+#: src/en/review/index.md:7
+msgid ""
+"At Google, we use code review to maintain the quality of our code and "
+"products."
+msgstr ""
+
+#: src/en/review/index.md:9
+msgid ""
+"This documentation is the canonical description of Google's code review "
+"processes and policies."
+msgstr ""
+
+#: src/en/review/index.md:14
+msgid ""
+"This page is an overview of our code review process. There are two other "
+"large documents that are a part of this guide:"
+msgstr ""
+
+#: src/en/review/index.md:17
+msgid ""
+"**[How To Do A Code Review](reviewer/index.md)**: A detailed guide for code "
+"reviewers."
+msgstr ""
+
+#: src/en/review/index.md:19
+msgid ""
+"**[The CL Author's Guide](developer/index.md)**: A detailed guide for "
+"developers whose CLs are going through review."
+msgstr ""
+
+#: src/en/review/index.md:22
+msgid "What Do Code Reviewers Look For?"
+msgstr ""
+
+#: src/en/review/index.md:24
+msgid "Code reviews should look at:"
+msgstr ""
+
+#: src/en/review/index.md:26
+msgid "**Design**: Is the code well-designed and appropriate for your system?"
+msgstr ""
+
+#: src/en/review/index.md:27
+msgid ""
+"**Functionality**: Does the code behave as the author likely intended? Is "
+"the way the code behaves good for its users?"
+msgstr ""
+
+#: src/en/review/index.md:29
+msgid ""
+"**Complexity**: Could the code be made simpler? Would another developer be "
+"able to easily understand and use this code when they come across it in the "
+"future?"
+msgstr ""
+
+#: src/en/review/index.md:32
+msgid "**Tests**: Does the code have correct and well-designed automated tests?"
+msgstr ""
+
+#: src/en/review/index.md:33
+msgid ""
+"**Naming**: Did the developer choose clear names for variables, classes, "
+"methods, etc.?"
+msgstr ""
+
+#: src/en/review/index.md:35
+msgid "**Comments**: Are the comments clear and useful?"
+msgstr ""
+
+#: src/en/review/index.md:36
+msgid ""
+"**Style**: Does the code follow our [style "
+"guides](http://google.github.io/styleguide/)?"
+msgstr ""
+
+#: src/en/review/index.md:38
+msgid "**Documentation**: Did the developer also update relevant documentation?"
+msgstr ""
+
+#: src/en/review/index.md:40
+msgid ""
+"See **[How To Do A Code Review](reviewer/index.md)** for more information."
+msgstr ""
+
+#: src/en/review/index.md:42
+msgid "Picking the Best Reviewers"
+msgstr ""
+
+#: src/en/review/index.md:44
+msgid ""
+"In general, you want to find the _best_ reviewers you can who are capable of "
+"responding to your review within a reasonable period of time."
+msgstr ""
+
+#: src/en/review/index.md:47
+msgid ""
+"The best reviewer is the person who will be able to give you the most "
+"thorough and correct review for the piece of code you are writing. This "
+"usually means the owner(s) of the code, who may or may not be the people in "
+"the OWNERS file. Sometimes this means asking different people to review "
+"different parts of the CL."
+msgstr ""
+
+#: src/en/review/index.md:53
+msgid ""
+"If you find an ideal reviewer but they are not available, you should at "
+"least CC them on your change."
+msgstr ""
+
+#: src/en/review/index.md:56
+msgid "In-Person Reviews (and Pair Programming)"
+msgstr ""
+
+#: src/en/review/index.md:58
+msgid ""
+"If you pair-programmed a piece of code with somebody who was qualified to do "
+"a good code review on it, then that code is considered reviewed."
+msgstr ""
+
+#: src/en/review/index.md:61
+msgid ""
+"You can also do in-person code reviews where the reviewer asks questions and "
+"the developer of the change speaks only when spoken to."
+msgstr ""
+
+#: src/en/review/index.md:64
+msgid "See Also"
+msgstr ""
+
+#: src/en/review/index.md:66
+msgid ""
+"[How To Do A Code Review](reviewer/index.md): A detailed guide for code "
+"reviewers."
+msgstr ""
+
+#: src/en/review/index.md:68
+msgid ""
+"[The CL Author's Guide](developer/index.md): A detailed guide for developers "
+"whose CLs are going through review."
+msgstr ""
+
+#: src/en/review/developer/index.md:3
+msgid ""
+"The pages in this section contain best practices for developers going "
+"through code review. These guidelines should help you get through reviews "
+"faster and with higher-quality results. You don't have to read them all, but "
+"they are intended to apply to every Google developer, and many people have "
+"found it helpful to read the whole set."
+msgstr ""
+
+#: src/en/review/developer/index.md:9
+msgid "[Writing Good CL Descriptions](cl-descriptions.md)"
+msgstr ""
+
+#: src/en/review/developer/index.md:10
+msgid "[Small CLs](small-cls.md)"
+msgstr ""
+
+#: src/en/review/developer/index.md:11
+msgid "[How to Handle Reviewer Comments](handling-comments.md)"
+msgstr ""
+
+#: src/en/review/developer/index.md:13
+msgid ""
+"See also [How to Do a Code Review](../reviewer/index.md), which gives "
+"detailed guidance for code reviewers."
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:5
+msgid ""
+"A CL description is a public record of **what** change is being made and "
+"**why** it was made. It will become a permanent part of our version control "
+"history, and will possibly be read by hundreds of people other than your "
+"reviewers over the years."
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:10
+msgid ""
+"Future developers will search for your CL based on its description. Someone "
+"in the future might be looking for your change because of a faint memory of "
+"its relevance but without the specifics handy. If all the important "
+"information is in the code and not the description, it's going to be a lot "
+"harder for them to locate your CL."
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:16
+msgid "First Line"
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:18
+msgid "Short summary of what is being done."
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:19
+msgid "Complete sentence, written as though it was an order."
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:20
+msgid "Follow by empty line."
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:22
+msgid ""
+"The **first line** of a CL description should be a short summary of "
+"_specifically_ **what** _is being done by the CL_, followed by a blank line. "
+"This is what appears in version control history summaries, so it should be "
+"informative enough that future code searchers don't have to read your CL or "
+"its whole description to understand what your CL actually _did_ or how it "
+"differs from other CLs. That is, the first line should stand alone, allowing "
+"readers to skim through code history much faster."
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:30
+msgid ""
+"Try to keep your first line short, focused, and to the point. The clarity "
+"and utility to the reader should be the top concern."
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:33
+msgid ""
+"By tradition, the first line of a CL description is a complete sentence, "
+"written as though it were an order (an imperative sentence). For example, "
+"say \"**Delete** the FizzBuzz RPC and **replace** it with the new system.\" "
+"instead of \"**Deleting** the FizzBuzz RPC and **replacing** it with the new "
+"system.\" You don't have to write the rest of the description as an "
+"imperative sentence, though."
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:40
+msgid "Body is Informative"
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:42
+msgid ""
+"The [first line](#firstline) should be a short, focused summary, while the "
+"rest of the description should fill in the details and include any "
+"supplemental information a reader needs to understand the changelist "
+"holistically. It might include a brief description of the problem that's "
+"being solved, and why this is the best approach. If there are any "
+"shortcomings to the approach, they should be mentioned. If relevant, include "
+"background information such as bug numbers, benchmark results, and links to "
+"design documents."
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:50
+msgid ""
+"If you include links to external resources consider that they may not be "
+"visible to future readers due to access restrictions or retention policies. "
+"Where possible include enough context for reviewers and future readers to "
+"understand the CL."
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:55
+msgid ""
+"Even small CLs deserve a little attention to detail. Put the CL in context."
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:57
+msgid "Bad CL Descriptions"
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:59
+msgid ""
+"\"Fix bug\" is an inadequate CL description. What bug? What did you do to "
+"fix it? Other similarly bad descriptions include:"
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:62
+msgid "\"Fix build.\""
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:63
+msgid "\"Add patch.\""
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:64
+msgid "\"Moving code from A to B.\""
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:65
+msgid "\"Phase 1.\""
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:66
+msgid "\"Add convenience functions.\""
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:67
+msgid "\"kill weird URLs.\""
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:69
+msgid ""
+"Some of those are real CL descriptions. Although short, they do not provide "
+"enough useful information."
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:72
+msgid "Good CL Descriptions"
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:74
+msgid "Here are some examples of good descriptions."
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:76
+msgid "Functionality change"
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:78
+#: src/en/review/developer/cl-descriptions.md:93
+#: src/en/review/developer/cl-descriptions.md:115
+msgid "Example:"
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:80
+msgid "RPC: Remove size limit on RPC server message freelist."
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:82
+msgid ""
+"Servers like FizzBuzz have very large messages and would benefit from reuse. "
+"Make the freelist larger, and add a goroutine that frees the freelist "
+"entries slowly over time, so that idle servers eventually release all "
+"freelist entries."
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:87
+msgid ""
+"The first few words describe what the CL actually does. The rest of the "
+"description talks about the problem being solved, why this is a good "
+"solution, and a bit more information about the specific implementation."
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:91
+msgid "Refactoring"
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:95
+msgid "Construct a Task with a TimeKeeper to use its TimeStr and Now methods."
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:97
+msgid ""
+"Add a Now method to Task, so the borglet() getter method can be removed "
+"(which was only used by OOMCandidate to call borglet's Now method). This "
+"replaces the methods on Borglet that delegate to a TimeKeeper."
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:101
+msgid ""
+"Allowing Tasks to supply Now is a step toward eliminating the dependency on "
+"Borglet. Eventually, collaborators that depend on getting Now from the Task "
+"should be changed to use a TimeKeeper directly, but this has been an "
+"accommodation to refactoring in small steps."
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:106
+msgid "Continuing the long-range goal of refactoring the Borglet Hierarchy."
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:108
+msgid ""
+"The first line describes what the CL does and how this is a change from the "
+"past. The rest of the description talks about the specific implementation, "
+"the context of the CL, that the solution isn't ideal, and possible future "
+"direction. It also explains _why_ this change is being made."
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:113
+msgid "Small CL that needs some context"
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:117
+msgid "Create a Python3 build rule for status.py."
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:119
+msgid ""
+"This allows consumers who are already using this as in Python3 to depend on "
+"a rule that is next to the original status build rule instead of somewhere "
+"in their own tree. It encourages new consumers to use Python3 if they can, "
+"instead of Python2, and significantly simplifies some automated build file "
+"refactoring tools being worked on currently."
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:125
+msgid ""
+"The first sentence describes what's actually being done. The rest of the "
+"description explains _why_ the change is being made and gives the reviewer a "
+"lot of context."
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:129
+msgid "Using tags"
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:131
+msgid ""
+"Tags are manually entered labels that can be used to categorize CLs. These "
+"may be supported by tools or just used by team convention."
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:134
+msgid "For example:"
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:141
+msgid "Using tags is optional."
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:143
+msgid ""
+"When adding tags, consider whether they should be in the "
+"[body](#informative) of the CL description or the [first line](#firstline). "
+"Limit the usage of tags in the first line, as this can obscure the content."
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:147
+msgid "Examples with and without tags:"
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:149
+msgid ""
+"```{.good}\n"
+"// Tags are okay in the first line if kept short.\n"
+"[banana] Peel the banana before eating.\n"
+"\n"
+"// Tags can be inlined in content.\n"
+"Peel the #banana before eating.\n"
+"\n"
+"// Tags are optional.\n"
+"Peel the banana before eating.\n"
+"\n"
+"// Multiple tags are acceptable if kept short.\n"
+"#banana #apple: Assemble a fruit basket.\n"
+"\n"
+"// Tags can go anywhere in the CL description.\n"
+"> Assemble a fruit basket.\n"
+">\n"
+"> #banana #apple\n"
+"```"
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:168
+msgid ""
+"```{.bad}\n"
+"// Too many tags (or tags that are too long) overwhelm the first line.\n"
+"//\n"
+"// Instead, consider whether the tags can be moved into the description "
+"body\n"
+"// and/or shortened.\n"
+"[banana peeler factory factory][apple picking service] Assemble a fruit "
+"basket.\n"
+"```"
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:176
+msgid "Generated CL descriptions"
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:178
+msgid ""
+"Some CLs are generated by tools. Whenever possible, their descriptions "
+"should also follow the advice here. That is, their first line should be "
+"short, focused, and stand alone, and the CL description body should include "
+"informative details that help reviewers and future code searchers understand "
+"each CL's effect."
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:183
+msgid "Review the description before submitting the CL"
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:185
+msgid ""
+"CLs can undergo significant change during review. It can be worthwhile to "
+"review a CL description before submitting the CL, to ensure that the "
+"description still reflects what the CL does."
+msgstr ""
+
+#: src/en/review/developer/cl-descriptions.md:189
+msgid "Next: [Small CLs](small-cls.md)"
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:5
+msgid "Why Write Small CLs?"
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:7
+msgid "Small, simple CLs are:"
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:9
+msgid ""
+"**Reviewed more quickly.** It's easier for a reviewer to find five minutes "
+"several times to review small CLs than to set aside a 30 minute block to "
+"review one large CL."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:12
+msgid ""
+"**Reviewed more thoroughly.** With large changes, reviewers and authors tend "
+"to get frustrated by large volumes of detailed commentary shifting back and "
+"forth—sometimes to the point where important points get missed or dropped."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:15
+msgid ""
+"**Less likely to introduce bugs.** Since you're making fewer changes, it's "
+"easier for you and your reviewer to reason effectively about the impact of "
+"the CL and see if a bug has been introduced."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:18
+msgid ""
+"**Less wasted work if they are rejected.** If you write a huge CL and then "
+"your reviewer says that the overall direction is wrong, you've wasted a lot "
+"of work."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:21
+msgid ""
+"**Easier to merge.** Working on a large CL takes a long time, so you will "
+"have lots of conflicts when you merge, and you will have to merge frequently."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:24
+msgid ""
+"**Easier to design well.** It's a lot easier to polish the design and code "
+"health of a small change than it is to refine all the details of a large "
+"change."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:27
+msgid ""
+"**Less blocking on reviews.** Sending self-contained portions of your "
+"overall change allows you to continue coding while you wait for your current "
+"CL in review."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:30
+msgid ""
+"**Simpler to roll back.** A large CL will more likely touch files that get "
+"updated between the initial CL submission and a rollback CL, complicating "
+"the rollback (the intermediate CLs will probably need to be rolled back too)."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:35
+msgid ""
+"Note that **reviewers have discretion to reject your change outright for the "
+"sole reason of it being too large.** Usually they will thank you for your "
+"contribution but request that you somehow make it into a series of smaller "
+"changes. It can be a lot of work to split up a change after you've already "
+"written it, or require lots of time arguing about why the reviewer should "
+"accept your large change. It's easier to just write small CLs in the first "
+"place."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:42
+msgid "What is Small?"
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:44
+msgid ""
+"In general, the right size for a CL is **one self-contained change**. This "
+"means that:"
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:47
+msgid ""
+"The CL makes a minimal change that addresses **just one thing**. This is "
+"usually just one part of a feature, rather than a whole feature at once. In "
+"general it's better to err on the side of writing CLs that are too small vs. "
+"CLs that are too large. Work with your reviewer to find out what an "
+"acceptable size is."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:52
+msgid "The CL should [include related test code](#test_code)."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:53
+msgid ""
+"Everything the reviewer needs to understand about the CL (except future "
+"development) is in the CL, the CL's description, the existing codebase, or a "
+"CL they've already reviewed."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:56
+msgid ""
+"The system will continue to work well for its users and for the developers "
+"after the CL is checked in."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:58
+msgid ""
+"The CL is not so small that its implications are difficult to understand. If "
+"you add a new API, you should include a usage of the API in the same CL so "
+"that reviewers can better understand how the API will be used. This also "
+"prevents checking in unused APIs."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:63
+msgid ""
+"There are no hard and fast rules about how large is \"too large.\" 100 lines "
+"is usually a reasonable size for a CL, and 1000 lines is usually too large, "
+"but it's up to the judgment of your reviewer. The number of files that a "
+"change is spread across also affects its \"size.\" A 200-line change in one "
+"file might be okay, but spread across 50 files it would usually be too large."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:69
+msgid ""
+"Keep in mind that although you have been intimately involved with your code "
+"from the moment you started to write it, the reviewer often has no context. "
+"What seems like an acceptably-sized CL to you might be overwhelming to your "
+"reviewer. When in doubt, write CLs that are smaller than you think you need "
+"to write. Reviewers rarely complain about getting CLs that are too small."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:75
+msgid "When are Large CLs Okay?"
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:77
+msgid "There are a few situations in which large changes aren't as bad:"
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:79
+msgid ""
+"You can usually count deletion of an entire file as being just one line of "
+"change, because it doesn't take the reviewer very long to review."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:81
+msgid ""
+"Sometimes a large CL has been generated by an automatic refactoring tool "
+"that you trust completely, and the reviewer's job is just to verify and say "
+"that they really do want the change. These CLs can be larger, although some "
+"of the caveats from above (such as merging and testing) still apply."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:86
+msgid "Writing Small CLs Efficiently"
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:88
+msgid ""
+"If you write a small CL and then you wait for your reviewer to approve it "
+"before you write your next CL, then you're going to waste a lot of time. So "
+"you want to find some way to work that won't block you while you're waiting "
+"for review. This could involve having multiple projects to work on "
+"simultaneously, finding reviewers who agree to be immediately available, "
+"doing in-person reviews, pair programming, or splitting your CLs in a way "
+"that allows you to continue working immediately."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:96
+msgid "Splitting CLs"
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:98
+msgid ""
+"When starting work that will have multiple CLs with potential dependencies "
+"among each other, it's often useful to think about how to split and organize "
+"those CLs at a high level before diving into coding."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:102
+msgid ""
+"Besides making things easier for you as an author to manage and organize "
+"your CLs, it also makes things easier for your code reviewers, which in turn "
+"makes your code reviews more efficient."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:106
+msgid "Here are some strategies for splitting work into different CLs."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:108
+msgid "Stacking Multiple Changes on Top of Each Other"
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:110
+msgid ""
+"One way to split up a CL without blocking yourself is to write one small CL, "
+"send it off for review, and then immediately start writing another CL "
+"_based_ on the first CL. Most version control systems allow you to do this "
+"somehow."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:114
+msgid "Splitting by Files"
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:116
+msgid ""
+"Another way to split up a CL is by groupings of files that will require "
+"different reviewers but are otherwise self-contained changes."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:119
+msgid ""
+"For example: you send off one CL for modifications to a protocol buffer and "
+"another CL for changes to the code that uses that proto. You have to submit "
+"the proto CL before the code CL, but they can both be reviewed "
+"simultaneously. If you do this, you might want to inform both sets of "
+"reviewers about the other CL that you wrote, so that they have context for "
+"your changes."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:125
+msgid ""
+"Another example: you send one CL for a code change and another for the "
+"configuration or experiment that uses that code; this is easier to roll back "
+"too, if necessary, as configuration/experiment files are sometimes pushed to "
+"production faster than code changes."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:130
+msgid "Splitting Horizontally"
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:132
+msgid ""
+"Consider creating shared code or stubs that help isolate changes between "
+"layers of the tech stack. This not only helps expedite development but also "
+"encourages abstraction between layers."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:136
+msgid ""
+"For example: You created a calculator app with client, API, service, and "
+"data model layers. A shared proto signature can abstract the service and "
+"data model layers from each other. Similarly, an API stub can split the "
+"implementation of client code from service code and enable them to move "
+"forward independently. Similar ideas can also be applied to more granular "
+"function or class level abstractions."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:143
+msgid "Splitting Vertically"
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:145
+msgid ""
+"Orthogonal to the layered, horizontal approach, you can instead break down "
+"your code into smaller, full-stack, vertical features. Each of these "
+"features can be independent parallel implementation tracks. This enables "
+"some tracks to move forward while other tracks are awaiting review or "
+"feedback."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:150
+msgid ""
+"Back to our calculator example from [Splitting "
+"Horizontally](#splitting-horizontally). You now want to support new "
+"operators, like multiplication and division. You could split this up by "
+"implementing multiplication and division as separate verticals or "
+"sub-features, even though they may have some overlap such as shared button "
+"styling or shared validation logic."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:157
+msgid "Splitting Horizontally & Vertically"
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:159
+msgid ""
+"To take this a step further, you could combine these approaches and chart "
+"out an implementation plan like this, where each cell is its own standalone "
+"CL. Starting from the model (at the bottom) and working up to the client:"
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:163
+msgid "Layer"
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:163
+msgid "Feature: Multiplication"
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:163
+msgid "Feature: Division"
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:165
+msgid "Client"
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:165
+#: src/en/review/developer/small-cls.md:165
+msgid "Add button"
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:166
+#: src/en/review/developer/small-cls.md:166
+msgid "Add endpoint"
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:167
+msgid "Service"
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:167
+msgid "Implement transformations"
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:167
+msgid "Share transformation logic with"
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:168
+msgid ":         :                           : multiplication                  :"
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:169
+msgid "Model"
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:169
+#: src/en/review/developer/small-cls.md:169
+msgid "Add proto definition"
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:171
+msgid "Separate Out Refactorings"
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:173
+msgid ""
+"It's usually best to do refactorings in a separate CL from feature changes "
+"or bug fixes. For example, moving and renaming a class should be in a "
+"different CL from fixing a bug in that class. It is much easier for "
+"reviewers to understand the changes introduced by each CL when they are "
+"separate."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:178
+msgid ""
+"Small cleanups such as fixing a local variable name can be included inside "
+"of a feature change or bug fix CL, though. It's up to the judgment of "
+"developers and reviewers to decide when a refactoring is so large that it "
+"will make the review more difficult if included in your current CL."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:183
+msgid "Keep related test code in the same CL"
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:185
+msgid ""
+"CLs should include related test code. Remember that "
+"[smallness](#what_is_small) here refers the conceptual idea that the CL "
+"should be focused and is not a simplistic function on line count."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:189
+msgid "Tests are expected for all Google changes."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:191
+msgid ""
+"A CL that adds or changes logic should be accompanied by new or updated "
+"tests for the new behavior. Pure refactoring CLs (that aren't intended to "
+"change behavior) should also be covered by tests; ideally, these tests "
+"already exist, but if they don't, you should add them."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:196
+msgid ""
+"_Independent_ test modifications can go into separate CLs first, similar to "
+"the [refactorings guidelines](#refactoring). That includes:"
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:199
+msgid "Validating pre-existing, submitted code with new tests."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:200
+msgid "Ensures that important logic is covered by tests."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:201
+msgid ""
+"Increases confidence in subsequent refactorings on affected code. For "
+"example, if you want to refactor code that isn't already covered by tests, "
+"submitting test CLs _before_ submitting refactoring CLs can validate that "
+"the tested behavior is unchanged before and after the refactoring."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:206
+msgid "Refactoring the test code (e.g. introduce helper functions)."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:207
+msgid "Introducing larger test framework code (e.g. an integration test)."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:209
+msgid "Don't Break the Build"
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:211
+msgid ""
+"If you have several CLs that depend on each other, you need to find a way to "
+"make sure the whole system keeps working after each CL is submitted. "
+"Otherwise you might break the build for all your fellow developers for a few "
+"minutes between your CL submissions (or even longer if something goes wrong "
+"unexpectedly with your later CL submissions)."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:217
+msgid "Can't Make it Small Enough"
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:219
+msgid ""
+"Sometimes you will encounter situations where it seems like your CL _has_ to "
+"be large. This is very rarely true. Authors who practice writing small CLs "
+"can almost always find a way to decompose functionality into a series of "
+"small changes."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:224
+msgid ""
+"Before writing a large CL, consider whether preceding it with a "
+"refactoring-only CL could pave the way for a cleaner implementation. Talk to "
+"your teammates and see if anybody has thoughts on how to implement the "
+"functionality in small CLs instead."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:229
+msgid ""
+"If all of these options fail (which should be extremely rare) then get "
+"consent from your reviewers in advance to review a large CL, so they are "
+"warned about what is coming. In this situation, expect to be going through "
+"the review process for a long time, be vigilant about not introducing bugs, "
+"and be extra diligent about writing tests."
+msgstr ""
+
+#: src/en/review/developer/small-cls.md:235
+msgid "Next: [How to Handle Reviewer Comments](handling-comments.md)"
+msgstr ""
+
+#: src/en/review/developer/handling-comments.md:5
+msgid ""
+"When you've sent a CL out for review, it's likely that your reviewer will "
+"respond with several comments on your CL. Here are some useful things to "
+"know about handling reviewer comments."
+msgstr ""
+
+#: src/en/review/developer/handling-comments.md:9
+msgid "Don't Take it Personally"
+msgstr ""
+
+#: src/en/review/developer/handling-comments.md:11
+msgid ""
+"The goal of review is to maintain the quality of our codebase and our "
+"products. When a reviewer provides a critique of your code, think of it as "
+"their attempt to help you, the codebase, and Google, rather than as a "
+"personal attack on you or your abilities."
+msgstr ""
+
+#: src/en/review/developer/handling-comments.md:16
+msgid ""
+"Sometimes reviewers feel frustrated and they express that frustration in "
+"their comments. This isn't a good practice for reviewers, but as a developer "
+"you should be prepared for this. Ask yourself, \"What is the constructive "
+"thing that the reviewer is trying to communicate to me?\" and then operate "
+"as though that's what they actually said."
+msgstr ""
+
+#: src/en/review/developer/handling-comments.md:22
+msgid ""
+"**Never respond in anger to code review comments.** That is a serious breach "
+"of professional etiquette that will live forever in the code review tool. If "
+"you are too angry or annoyed to respond kindly, then walk away from your "
+"computer for a while, or work on something else until you feel calm enough "
+"to reply politely."
+msgstr ""
+
+#: src/en/review/developer/handling-comments.md:28
+msgid ""
+"In general, if a reviewer isn't providing feedback in a way that's "
+"constructive and polite, explain this to them in person. If you can't talk "
+"to them in person or on a video call, then send them a private email. "
+"Explain to them in a kind way what you don't like and what you'd like them "
+"to do differently. If they also respond in a non-constructive way to this "
+"private discussion, or it doesn't have the intended effect, then escalate to "
+"your manager as appropriate."
+msgstr ""
+
+#: src/en/review/developer/handling-comments.md:37
+msgid "Fix the Code"
+msgstr ""
+
+#: src/en/review/developer/handling-comments.md:39
+msgid ""
+"If a reviewer says that they don't understand something in your code, your "
+"first response should be to clarify the code itself. If the code can't be "
+"clarified, add a code comment that explains why the code is there. If a "
+"comment seems pointless, only then should your response be an explanation in "
+"the code review tool."
+msgstr ""
+
+#: src/en/review/developer/handling-comments.md:45
+msgid ""
+"If a reviewer didn't understand some piece of your code, it's likely other "
+"future readers of the code won't understand either. Writing a response in "
+"the code review tool doesn't help future code readers, but clarifying your "
+"code or adding code comments does help them."
+msgstr ""
+
+#: src/en/review/developer/handling-comments.md:50
+msgid "Think Collaboratively"
+msgstr ""
+
+#: src/en/review/developer/handling-comments.md:52
+msgid ""
+"Writing a CL can take a lot of work. It's often really satisfying to finally "
+"send one out for review, feel like it's done, and be pretty sure that no "
+"further work is needed. It can be frustrating to receive comments asking for "
+"changes, especially if you don't agree with them."
+msgstr ""
+
+#: src/en/review/developer/handling-comments.md:57
+msgid ""
+"At times like this, take a moment to step back and consider if the reviewer "
+"is providing valuable feedback that will help the codebase and Google. Your "
+"first question to yourself should always be, \"Do I understand what the "
+"reviewer is asking for?\""
+msgstr ""
+
+#: src/en/review/developer/handling-comments.md:62
+msgid "If you can't answer that question, ask the reviewer for clarification."
+msgstr ""
+
+#: src/en/review/developer/handling-comments.md:64
+msgid ""
+"And then, if you understand the comments but disagree with them, it's "
+"important to think collaboratively, not combatively or defensively:"
+msgstr ""
+
+#: src/en/review/developer/handling-comments.md:67
+msgid "Bad: \"No, I'm not going to do that.\""
+msgstr ""
+
+#: src/en/review/developer/handling-comments.md:69
+msgid ""
+"Good: \"I went with X because of \\[these pros/cons\\] with \\[these "
+"tradeoffs\\]. My understanding is that using Y would be worse because of "
+"\\[these reasons\\]. Are you suggesting that Y better serves the original "
+"tradeoffs, that we should weigh the tradeoffs differently, or something "
+"else?\""
+msgstr ""
+
+#: src/en/review/developer/handling-comments.md:75
+msgid ""
+"Remember, **[courtesy and "
+"respect](https://chromium.googlesource.com/chromium/src/+/master/docs/cr_respect.md) "
+"should always be a first priority**. If you disagree with the reviewer, find "
+"ways to collaborate: ask for clarifications, discuss pros/cons, and provide "
+"explanations of why your method of doing things is better for the codebase, "
+"users, and/or Google."
+msgstr ""
+
+#: src/en/review/developer/handling-comments.md:82
+msgid ""
+"Sometimes, you might know something about the users, codebase, or CL that "
+"the reviewer doesn't know. [Fix the code](#code) where appropriate, and "
+"engage your reviewer in discussion, including giving them more context. "
+"Usually you can come to some consensus between yourself and the reviewer "
+"based on technical facts."
+msgstr ""
+
+#: src/en/review/developer/handling-comments.md:87
+#: src/en/review/reviewer/standard.md:92 src/en/review/reviewer/pushback.md:78
+msgid "Resolving Conflicts"
+msgstr ""
+
+#: src/en/review/developer/handling-comments.md:89
+msgid ""
+"Your first step in resolving conflicts should always be to try to come to "
+"consensus with your reviewer. If you can't achieve consensus, see [The "
+"Standard of Code Review](../reviewer/standard.md), which gives principles to "
+"follow in such a situation."
+msgstr ""
+
+#: src/en/review/reviewer/index.md:3
+msgid ""
+"The pages in this section contain recommendations on the best way to do code "
+"reviews, based on long experience. All together they represent one complete "
+"document, broken up into many separate sections. You don't have to read them "
+"all, but many people have found it very helpful to themselves and their team "
+"to read the entire set."
+msgstr ""
+
+#: src/en/review/reviewer/index.md:9
+msgid "[The Standard of Code Review](standard.md)"
+msgstr ""
+
+#: src/en/review/reviewer/index.md:10
+msgid "[What to Look For In a Code Review](looking-for.md)"
+msgstr ""
+
+#: src/en/review/reviewer/index.md:11
+msgid "[Navigating a CL in Review](navigate.md)"
+msgstr ""
+
+#: src/en/review/reviewer/index.md:12
+msgid "[Speed of Code Reviews](speed.md)"
+msgstr ""
+
+#: src/en/review/reviewer/index.md:13
+msgid "[How to Write Code Review Comments](comments.md)"
+msgstr ""
+
+#: src/en/review/reviewer/index.md:14
+msgid "[Handling Pushback in Code Reviews](pushback.md)"
+msgstr ""
+
+#: src/en/review/reviewer/index.md:16
+msgid ""
+"See also the [CL Author's Guide](../developer/index.md), which gives "
+"detailed guidance to developers whose CLs are undergoing review."
+msgstr ""
+
+#: src/en/review/reviewer/standard.md:5
+msgid ""
+"The primary purpose of code review is to make sure that the overall code "
+"health of Google's code base is improving over time. All of the tools and "
+"processes of code review are designed to this end."
+msgstr ""
+
+#: src/en/review/reviewer/standard.md:10
+msgid "In order to accomplish this, a series of trade-offs have to be balanced."
+msgstr ""
+
+#: src/en/review/reviewer/standard.md:12
+msgid ""
+"First, developers must be able to _make progress_ on their tasks. If you "
+"never submit an improvement to the codebase, then the codebase never "
+"improves. Also, if a reviewer makes it very difficult for _any_ change to go "
+"in, then developers are disincentivized to make improvements in the future."
+msgstr ""
+
+#: src/en/review/reviewer/standard.md:17
+msgid ""
+"On the other hand, it is the duty of the reviewer to make sure that each CL "
+"is of such a quality that the overall code health of their codebase is not "
+"decreasing as time goes on. This can be tricky, because often, codebases "
+"degrade through small decreases in code health over time, especially when a "
+"team is under significant time constraints and they feel that they have to "
+"take shortcuts in order to accomplish their goals."
+msgstr ""
+
+#: src/en/review/reviewer/standard.md:24
+msgid ""
+"Also, a reviewer has ownership and responsibility over the code they are "
+"reviewing. They want to ensure that the codebase stays consistent, "
+"maintainable, and all of the other things mentioned in [\"What to look for "
+"in a code review.\"](looking-for.md)"
+msgstr ""
+
+#: src/en/review/reviewer/standard.md:29
+msgid ""
+"Thus, we get the following rule as the standard we expect in code reviews:"
+msgstr ""
+
+#: src/en/review/reviewer/standard.md:31
+msgid ""
+"**In general, reviewers should favor approving a CL once it is in a state "
+"where it definitely improves the overall code health of the system being "
+"worked on, even if the CL isn't perfect.**"
+msgstr ""
+
+#: src/en/review/reviewer/standard.md:36
+msgid "That is _the_ senior principle among all of the code review guidelines."
+msgstr ""
+
+#: src/en/review/reviewer/standard.md:38
+msgid ""
+"There are limitations to this, of course. For example, if a CL adds a "
+"feature that the reviewer doesn't want in their system, then the reviewer "
+"can certainly deny approval even if the code is well-designed."
+msgstr ""
+
+#: src/en/review/reviewer/standard.md:42
+msgid ""
+"A key point here is that there is no such thing as \"perfect\" code—there is "
+"only _better_ code. Reviewers should not require the author to polish every "
+"tiny piece of a CL before granting approval. Rather, the reviewer should "
+"balance out the need to make forward progress compared to the importance of "
+"the changes they are suggesting. Instead of seeking perfection, what a "
+"reviewer should seek is _continuous improvement_. A CL that, as a whole, "
+"improves the maintainability, readability, and understandability of the "
+"system shouldn't be delayed for days or weeks because it isn't \"perfect.\""
+msgstr ""
+
+#: src/en/review/reviewer/standard.md:51
+msgid ""
+"Reviewers should _always_ feel free to leave comments expressing that "
+"something could be better, but if it's not very important, prefix it with "
+"something like \"Nit: \" to let the author know that it's just a point of "
+"polish that they could choose to ignore."
+msgstr ""
+
+#: src/en/review/reviewer/standard.md:56
+msgid ""
+"Note: Nothing in this document justifies checking in CLs that definitely "
+"_worsen_ the overall code health of the system. The only time you would do "
+"that would be in an [emergency](../emergencies.md)."
+msgstr ""
+
+#: src/en/review/reviewer/standard.md:60
+msgid "Mentoring"
+msgstr ""
+
+#: src/en/review/reviewer/standard.md:62
+msgid ""
+"Code review can have an important function of teaching developers something "
+"new about a language, a framework, or general software design principles. "
+"It's always fine to leave comments that help a developer learn something "
+"new. Sharing knowledge is part of improving the code health of a system over "
+"time. Just keep in mind that if your comment is purely educational, but not "
+"critical to meeting the standards described in this document, prefix it with "
+"\"Nit: \" or otherwise indicate that it's not mandatory for the author to "
+"resolve it in this CL."
+msgstr ""
+
+#: src/en/review/reviewer/standard.md:70
+msgid "Principles"
+msgstr ""
+
+#: src/en/review/reviewer/standard.md:72
+msgid "Technical facts and data overrule opinions and personal preferences."
+msgstr ""
+
+#: src/en/review/reviewer/standard.md:74
+msgid ""
+"On matters of style, the [style guide](http://google.github.io/styleguide/) "
+"is the absolute authority. Any purely style point (whitespace, etc.) that is "
+"not in the style guide is a matter of personal preference. The style should "
+"be consistent with what is there. If there is no previous style, accept the "
+"author's."
+msgstr ""
+
+#: src/en/review/reviewer/standard.md:80
+msgid ""
+"**Aspects of software design are almost never a pure style issue or just a "
+"personal preference.** They are based on underlying principles and should be "
+"weighed on those principles, not simply by personal opinion. Sometimes there "
+"are a few valid options. If the author can demonstrate (either through data "
+"or based on solid engineering principles) that several approaches are "
+"equally valid, then the reviewer should accept the preference of the author. "
+"Otherwise the choice is dictated by standard principles of software design."
+msgstr ""
+
+#: src/en/review/reviewer/standard.md:88
+msgid ""
+"If no other rule applies, then the reviewer may ask the author to be "
+"consistent with what is in the current codebase, as long as that doesn't "
+"worsen the overall code health of the system."
+msgstr ""
+
+#: src/en/review/reviewer/standard.md:94
+msgid ""
+"In any conflict on a code review, the first step should always be for the "
+"developer and reviewer to try to come to consensus, based on the contents of "
+"this document and the other documents in [The CL Author's "
+"Guide](../developer/index.md) and this [Reviewer Guide](index.md)."
+msgstr ""
+
+#: src/en/review/reviewer/standard.md:100
+msgid ""
+"When coming to consensus becomes especially difficult, it can help to have a "
+"face-to-face meeting or a video conference between the reviewer and the "
+"author, instead of just trying to resolve the conflict through code review "
+"comments. (If you do this, though, make sure to record the results of the "
+"discussion as a comment on the CL, for future readers.)"
+msgstr ""
+
+#: src/en/review/reviewer/standard.md:106
+msgid ""
+"If that doesn't resolve the situation, the most common way to resolve it "
+"would be to escalate. Often the escalation path is to a broader team "
+"discussion, having a Technical Lead weigh in, asking for a decision from a "
+"maintainer of the code, or asking an Eng Manager to help out. **Don't let a "
+"CL sit around because the author and the reviewer can't come to an "
+"agreement.**"
+msgstr ""
+
+#: src/en/review/reviewer/standard.md:113
+msgid "Next: [What to look for in a code review](looking-for.md)"
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:5
+msgid ""
+"Note: Always make sure to take into account [The Standard of Code "
+"Review](standard.md) when considering each of these points."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:9
+msgid "Design"
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:11
+msgid ""
+"The most important thing to cover in a review is the overall design of the "
+"CL. Do the interactions of various pieces of code in the CL make sense? Does "
+"this change belong in your codebase, or in a library? Does it integrate well "
+"with the rest of your system? Is now a good time to add this functionality?"
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:16
+msgid "Functionality"
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:18
+msgid ""
+"Does this CL do what the developer intended? Is what the developer intended "
+"good for the users of this code? The \"users\" are usually both end-users "
+"(when they are affected by the change) and developers (who will have to "
+"\"use\" this code in the future)."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:23
+msgid ""
+"Mostly, we expect developers to test CLs well-enough that they work "
+"correctly by the time they get to code review. However, as the reviewer you "
+"should still be thinking about edge cases, looking for concurrency problems, "
+"trying to think like a user, and making sure that there are no bugs that you "
+"see just by reading the code."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:29
+msgid ""
+"You _can_ validate the CL if you want—the time when it's most important for "
+"a reviewer to check a CL's behavior is when it has a user-facing impact, "
+"such as a **UI change**. It's hard to understand how some changes will "
+"impact a user when you're just reading the code. For changes like that, you "
+"can have the developer give you a demo of the functionality if it's too "
+"inconvenient to patch in the CL and try it yourself."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:36
+msgid ""
+"Another time when it's particularly important to think about functionality "
+"during a code review is if there is some sort of **parallel programming** "
+"going on in the CL that could theoretically cause deadlocks or race "
+"conditions. These sorts of issues are very hard to detect by just running "
+"the code and usually need somebody (both the developer and the reviewer) to "
+"think through them carefully to be sure that problems aren't being "
+"introduced. (Note that this is also a good reason not to use concurrency "
+"models where race conditions or deadlocks are possible—it can make it very "
+"complex to do code reviews or understand the code.)"
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:46
+msgid "Complexity"
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:48
+msgid ""
+"Is the CL more complex than it should be? Check this at every level of the "
+"CL—are individual lines too complex? Are functions too complex? Are classes "
+"too complex? \"Too complex\" usually means **\"can't be understood quickly "
+"by code readers.\"** It can also mean **\"developers are likely to introduce "
+"bugs when they try to call or modify this code.\"**"
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:54
+msgid ""
+"A particular type of complexity is **over-engineering**, where developers "
+"have made the code more generic than it needs to be, or added functionality "
+"that isn't presently needed by the system. Reviewers should be especially "
+"vigilant about over-engineering. Encourage developers to solve the problem "
+"they know needs to be solved _now_, not the problem that the developer "
+"speculates _might_ need to be solved in the future. The future problem "
+"should be solved once it arrives and you can see its actual shape and "
+"requirements in the physical universe."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:63
+msgid "Tests"
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:65
+msgid ""
+"Ask for unit, integration, or end-to-end tests as appropriate for the "
+"change. In general, tests should be added in the same CL as the production "
+"code unless the CL is handling an [emergency](../emergencies.md)."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:70
+msgid ""
+"Make sure that the tests in the CL are correct, sensible, and useful. Tests "
+"do not test themselves, and we rarely write tests for our tests—a human must "
+"ensure that tests are valid."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:74
+msgid ""
+"Will the tests actually fail when the code is broken? If the code changes "
+"beneath them, will they start producing false positives? Does each test make "
+"simple and useful assertions? Are the tests separated appropriately between "
+"different test methods?"
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:79
+msgid ""
+"Remember that tests are also code that has to be maintained. Don't accept "
+"complexity in tests just because they aren't part of the main binary."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:82
+msgid "Naming"
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:84
+msgid ""
+"Did the developer pick good names for everything? A good name is long enough "
+"to fully communicate what the item is or does, without being so long that it "
+"becomes hard to read."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:88
+msgid "Comments"
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:90
+msgid ""
+"Did the developer write clear comments in understandable English? Are all of "
+"the comments actually necessary? Usually comments are useful when they "
+"**explain why** some code exists, and should not be explaining _what_ some "
+"code is doing. If the code isn't clear enough to explain itself, then the "
+"code should be made simpler. There are some exceptions (regular expressions "
+"and complex algorithms often benefit greatly from comments that explain what "
+"they're doing, for example) but mostly comments are for information that the "
+"code itself can't possibly contain, like the reasoning behind a decision."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:99
+msgid ""
+"It can also be helpful to look at comments that were there before this CL. "
+"Maybe there is a TODO that can be removed now, a comment advising against "
+"this change being made, etc."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:103
+msgid ""
+"Note that comments are different from _documentation_ of classes, modules, "
+"or functions, which should instead express the purpose of a piece of code, "
+"how it should be used, and how it behaves when used."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:107
+msgid "Style"
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:109
+msgid ""
+"We have [style guides](http://google.github.io/styleguide/) at Google for "
+"all of our major languages, and even for most of the minor languages. Make "
+"sure the CL follows the appropriate style guides."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:113
+msgid ""
+"If you want to improve some style point that isn't in the style guide, "
+"prefix your comment with \"Nit:\" to let the developer know that it's a "
+"nitpick that you think would improve the code but isn't mandatory. Don't "
+"block CLs from being submitted based only on personal style preferences."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:118
+msgid ""
+"The author of the CL should not include major style changes combined with "
+"other changes. It makes it hard to see what is being changed in the CL, "
+"makes merges and rollbacks more complex, and causes other problems. For "
+"example, if the author wants to reformat the whole file, have them send you "
+"just the reformatting as one CL, and then send another CL with their "
+"functional changes after that."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:125
+msgid "Consistency"
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:127
+msgid ""
+"What if the existing code is inconsistent with the style guide? Per our "
+"[code review principles](standard.md#principles), the style guide is the "
+"absolute authority: if something is required by the style guide, the CL "
+"should follow the guidelines."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:132
+msgid ""
+"In some cases, the style guide makes recommendations rather than declaring "
+"requirements. In these cases, it's a judgment call whether the new code "
+"should be consistent with the recommendations or the surrounding code. Bias "
+"towards following the style guide unless the local inconsistency would be "
+"too confusing."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:137
+msgid ""
+"If no other rule applies, the author should maintain consistency with the "
+"existing code."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:140
+msgid ""
+"Either way, encourage the author to file a bug and add a TODO for cleaning "
+"up existing code."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:143
+msgid "Documentation"
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:145
+msgid ""
+"If a CL changes how users build, test, interact with, or release code, check "
+"to see that it also updates associated documentation, including READMEs, "
+"g3doc pages, and any generated reference docs. If the CL deletes or "
+"deprecates code, consider whether the documentation should also be deleted. "
+"If documentation is missing, ask for it."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:153
+msgid "Every Line"
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:155
+msgid ""
+"In the general case, look at _every_ line of code that you have been "
+"assigned to review. Some things like data files, generated code, or large "
+"data structures you can scan over sometimes, but don't scan over a "
+"human-written class, function, or block of code and assume that what's "
+"inside of it is okay. Obviously some code deserves more careful scrutiny "
+"than other code—that's a judgment call that you have to make—but you should "
+"at least be sure that you _understand_ what all the code is doing."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:163
+msgid ""
+"If it's too hard for you to read the code and this is slowing down the "
+"review, then you should let the developer know that and wait for them to "
+"clarify it before you try to review it. At Google, we hire great software "
+"engineers, and you are one of them. If you can't understand the code, it's "
+"very likely that other developers won't either. So you're also helping "
+"future developers understand this code, when you ask the developer to "
+"clarify it."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:171
+msgid ""
+"If you understand the code but you don't feel qualified to do some part of "
+"the review, [make sure there is a reviewer](#every-line-exceptions) on the "
+"CL who is qualified, particularly for complex issues such as privacy, "
+"security, concurrency, accessibility, internationalization, etc."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:176
+msgid "Exceptions"
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:178
+msgid ""
+"What if it doesn't make sense for you to review every line? For example, you "
+"are one of multiple reviewers on a CL and may be asked:"
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:181
+msgid "To review only certain files that are part of a larger change."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:182
+msgid ""
+"To review only certain aspects of the CL, such as the high-level design, "
+"privacy or security implications, etc."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:185
+msgid ""
+"In these cases, note in a comment which parts you reviewed. Prefer giving "
+"[LGTM with comments](speed.md#lgtm-with-comments) ."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:189
+msgid ""
+"If you instead wish to grant LGTM after confirming that other reviewers have "
+"reviewed other parts of the CL, note this explicitly in a comment to set "
+"expectations. Aim to [respond quickly](speed.md#responses) once the CL has "
+"reached the desired state."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:194
+msgid "Context"
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:196
+msgid ""
+"It is often helpful to look at the CL in a broad context. Usually the code "
+"review tool will only show you a few lines of code around the parts that are "
+"being changed. Sometimes you have to look at the whole file to be sure that "
+"the change actually makes sense. For example, you might see only four new "
+"lines being added, but when you look at the whole file, you see those four "
+"lines are in a 50-line method that now really needs to be broken up into "
+"smaller methods."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:203
+msgid ""
+"It's also useful to think about the CL in the context of the system as a "
+"whole. Is this CL improving the code health of the system or is it making "
+"the whole system more complex, less tested, etc.? **Don't accept CLs that "
+"degrade the code health of the system.** Most systems become complex through "
+"many small changes that add up, so it's important to prevent even small "
+"complexities in new changes."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:210
+msgid "Good Things"
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:212
+msgid ""
+"If you see something nice in the CL, tell the developer, especially when "
+"they addressed one of your comments in a great way. Code reviews often just "
+"focus on mistakes, but they should offer encouragement and appreciation for "
+"good practices, as well. It’s sometimes even more valuable, in terms of "
+"mentoring, to tell a developer what they did right than to tell them what "
+"they did wrong."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:220
+msgid "In doing a code review, you should make sure that:"
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:222
+msgid "The code is well-designed."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:223
+msgid "The functionality is good for the users of the code."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:224
+msgid "Any UI changes are sensible and look good."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:225
+msgid "Any parallel programming is done safely."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:226
+msgid "The code isn't more complex than it needs to be."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:227
+msgid ""
+"The developer isn't implementing things they _might_ need in the future but "
+"don't know they need now."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:229
+msgid "Code has appropriate unit tests."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:230
+msgid "Tests are well-designed."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:231
+msgid "The developer used clear names for everything."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:232
+msgid ""
+"Comments are clear and useful, and mostly explain _why_ instead of _what_."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:233
+msgid "Code is appropriately documented (generally in g3doc)."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:234
+msgid "The code conforms to our style guides."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:236
+msgid ""
+"Make sure to review **every line** of code you've been asked to review, look "
+"at the **context**, make sure you're **improving code health**, and "
+"compliment developers on **good things** that they do."
+msgstr ""
+
+#: src/en/review/reviewer/looking-for.md:240
+msgid "Next: [Navigating a CL in Review](navigate.md)"
+msgstr ""
+
+#: src/en/review/reviewer/navigate.md:7
+msgid ""
+"Now that you know [what to look for](looking-for.md), what's the most "
+"efficient way to manage a review that's spread across multiple files?"
+msgstr ""
+
+#: src/en/review/reviewer/navigate.md:10
+msgid ""
+"Does the change make sense? Does it have a good "
+"[description](../developer/cl-descriptions.md)?"
+msgstr ""
+
+#: src/en/review/reviewer/navigate.md:12
+msgid ""
+"Look at the most important part of the change first. Is it well-designed "
+"overall?"
+msgstr ""
+
+#: src/en/review/reviewer/navigate.md:14
+msgid "Look at the rest of the CL in an appropriate sequence."
+msgstr ""
+
+#: src/en/review/reviewer/navigate.md:16
+msgid "Step One: Take a broad view of the change"
+msgstr ""
+
+#: src/en/review/reviewer/navigate.md:18
+msgid ""
+"Look at the [CL description](../developer/cl-descriptions.md) and what the "
+"CL does in general. Does this change even make sense? If this change "
+"shouldn't have happened in the first place, please respond immediately with "
+"an explanation of why the change should not be happening. When you reject a "
+"change like this, it's also a good idea to suggest to the developer what "
+"they should have done instead."
+msgstr ""
+
+#: src/en/review/reviewer/navigate.md:24
+msgid ""
+"For example, you might say \"Looks like you put some good work into this, "
+"thanks! However, we're actually going in the direction of removing the "
+"FooWidget system that you're modifying here, and so we don't want to make "
+"any new modifications to it right now. How about instead you refactor our "
+"new BarWidget class?\""
+msgstr ""
+
+#: src/en/review/reviewer/navigate.md:29
+msgid ""
+"Note that not only did the reviewer reject the current CL and provide an "
+"alternative suggestion, but they did it _courteously_. This kind of courtesy "
+"is important because we want to show that we respect each other as "
+"developers even when we disagree."
+msgstr ""
+
+#: src/en/review/reviewer/navigate.md:34
+msgid ""
+"If you get more than a few CLs that represent changes you don't want to "
+"make, you should consider re-working your team's development process or the "
+"posted process for external contributors so that there is more communication "
+"before CLs are written. It's better to tell people \"no\" before they've "
+"done a ton of work that now has to be thrown away or drastically re-written."
+msgstr ""
+
+#: src/en/review/reviewer/navigate.md:40
+msgid "Step Two: Examine the main parts of the CL"
+msgstr ""
+
+#: src/en/review/reviewer/navigate.md:42
+msgid ""
+"Find the file or files that are the \"main\" part of this CL. Often, there "
+"is one file that has the largest number of logical changes, and it's the "
+"major piece of the CL. Look at these major parts first. This helps give "
+"context to all of the smaller parts of the CL, and generally accelerates "
+"doing the code review. If the CL is too large for you to figure out which "
+"parts are the major parts, ask the developer what you should look at first, "
+"or ask them to [split up the CL into multiple "
+"CLs](../developer/small-cls.md)."
+msgstr ""
+
+#: src/en/review/reviewer/navigate.md:50
+msgid ""
+"If you see some major design problems with this part of the CL, you should "
+"send those comments immediately, even if you don't have time to review the "
+"rest of the CL right now. In fact, reviewing the rest of the CL might be a "
+"waste of time, because if the design problems are significant enough, a lot "
+"of the other code under review is going to disappear and not matter anyway."
+msgstr ""
+
+#: src/en/review/reviewer/navigate.md:56
+msgid ""
+"There are two major reasons it's so important to send these major design "
+"comments out immediately:"
+msgstr ""
+
+#: src/en/review/reviewer/navigate.md:59
+msgid ""
+"Developers often mail a CL and then immediately start new work based on that "
+"CL while they wait for review. If there are major design problems in the CL "
+"you're reviewing, they're also going to have to re-work their later CL. You "
+"want to catch them before they've done too much extra work on top of the "
+"problematic design."
+msgstr ""
+
+#: src/en/review/reviewer/navigate.md:64
+msgid ""
+"Major design changes take longer to do than small changes. Developers nearly "
+"all have deadlines; in order to make those deadlines and still have quality "
+"code in the codebase, the developer needs to start on any major re-work of "
+"the CL as soon as possible."
+msgstr ""
+
+#: src/en/review/reviewer/navigate.md:69
+msgid "Step Three: Look through the rest of the CL in an appropriate sequence"
+msgstr ""
+
+#: src/en/review/reviewer/navigate.md:71
+msgid ""
+"Once you've confirmed there are no major design problems with the CL as a "
+"whole, try to figure out a logical sequence to look through the files while "
+"also making sure you don't miss reviewing any file. Usually after you've "
+"looked through the major files, it's simplest to just go through each file "
+"in the order that the code review tool presents them to you. Sometimes it's "
+"also helpful to read the tests first before you read the main code, because "
+"then you have an idea of what the change is supposed to be doing."
+msgstr ""
+
+#: src/en/review/reviewer/navigate.md:79
+msgid "Next: [Speed of Code Reviews](speed.md)"
+msgstr ""
+
+#: src/en/review/reviewer/speed.md:5
+msgid "Why Should Code Reviews Be Fast?"
+msgstr ""
+
+#: src/en/review/reviewer/speed.md:7
+msgid ""
+"**At Google, we optimize for the speed at which a team of developers can "
+"produce a product together**, as opposed to optimizing for the speed at "
+"which an individual developer can write code. The speed of individual "
+"development is important, it's just not _as_ important as the velocity of "
+"the entire team."
+msgstr ""
+
+#: src/en/review/reviewer/speed.md:12
+msgid "When code reviews are slow, several things happen:"
+msgstr ""
+
+#: src/en/review/reviewer/speed.md:14
+msgid ""
+"**The velocity of the team as a whole is decreased.** Yes, the individual "
+"who doesn't respond quickly to the review gets other work done. However, new "
+"features and bug fixes for the rest of the team are delayed by days, weeks, "
+"or months as each CL waits for review and re-review."
+msgstr ""
+
+#: src/en/review/reviewer/speed.md:18
+msgid ""
+"**Developers start to protest the code review process.** If a reviewer only "
+"responds every few days, but requests major changes to the CL each time, "
+"that can be frustrating and difficult for developers. Often, this is "
+"expressed as complaints about how \"strict\" the reviewer is being. If the "
+"reviewer requests the _same_ substantial changes (changes which really do "
+"improve code health), but responds _quickly_ every time the developer makes "
+"an update, the complaints tend to disappear. **Most complaints about the "
+"code review process are actually resolved by making the process faster.**"
+msgstr ""
+
+#: src/en/review/reviewer/speed.md:26
+msgid ""
+"**Code health can be impacted.** When reviews are slow, there is increased "
+"pressure to allow developers to submit CLs that are not as good as they "
+"could be. Slow reviews also discourage code cleanups, refactorings, and "
+"further improvements to existing CLs."
+msgstr ""
+
+#: src/en/review/reviewer/speed.md:31
+msgid "How Fast Should Code Reviews Be?"
+msgstr ""
+
+#: src/en/review/reviewer/speed.md:33
+msgid ""
+"If you are not in the middle of a focused task, **you should do a code "
+"review shortly after it comes in.**"
+msgstr ""
+
+#: src/en/review/reviewer/speed.md:36
+msgid ""
+"**One business day is the maximum time it should take to respond** to a code "
+"review request (i.e., first thing the next morning)."
+msgstr ""
+
+#: src/en/review/reviewer/speed.md:39
+msgid ""
+"Following these guidelines means that a typical CL should get multiple "
+"rounds of review (if needed) within a single day."
+msgstr ""
+
+#: src/en/review/reviewer/speed.md:44
+msgid ""
+"There is one time where the consideration of personal velocity trumps team "
+"velocity. **If you are in the middle of a focused task, such as writing "
+"code, don't interrupt yourself to do a code review.** Research has shown "
+"that it can take a long time for a developer to get back into a smooth flow "
+"of development after being interrupted. So interrupting yourself while "
+"coding is actually _more_ expensive to the team than making another "
+"developer wait a bit for a code review."
+msgstr ""
+
+#: src/en/review/reviewer/speed.md:53
+msgid ""
+"Instead, wait for a break point in your work before you respond to a request "
+"for review. This could be when your current coding task is completed, after "
+"lunch, returning from a meeting, coming back from the breakroom, etc."
+msgstr ""
+
+#: src/en/review/reviewer/speed.md:57
+msgid "Fast Responses"
+msgstr ""
+
+#: src/en/review/reviewer/speed.md:59
+msgid ""
+"When we talk about the speed of code reviews, it is the _response_ time that "
+"we are concerned with, as opposed to how long it takes a CL to get through "
+"the whole review and be submitted. The whole process should also be fast, "
+"ideally, but **it's even more important for the _individual responses_ to "
+"come quickly than it is for the whole process to happen rapidly.**"
+msgstr ""
+
+#: src/en/review/reviewer/speed.md:65
+msgid ""
+"Even if it sometimes takes a long time to get through the entire review "
+"_process_, having quick responses from the reviewer throughout the process "
+"significantly eases the frustration developers can feel with \"slow\" code "
+"reviews."
+msgstr ""
+
+#: src/en/review/reviewer/speed.md:70
+msgid ""
+"If you are too busy to do a full review on a CL when it comes in, you can "
+"still send a quick response that lets the developer know when you will get "
+"to it, suggest other reviewers who might be able to respond more quickly, or "
+"[provide some initial broad comments](navigate.md). (Note: none of this "
+"means you should interrupt coding even to send a response like this—send the "
+"response at a reasonable break point in your work.)"
+msgstr ""
+
+#: src/en/review/reviewer/speed.md:77
+msgid ""
+"**It is important that reviewers spend enough time on review that they are "
+"certain their \"LGTM\" means \"this code meets [our "
+"standards](standard.md).\"** However, individual responses should still "
+"ideally be [fast](#fast)."
+msgstr ""
+
+#: src/en/review/reviewer/speed.md:81
+msgid "Cross-Time-Zone Reviews"
+msgstr ""
+
+#: src/en/review/reviewer/speed.md:83
+msgid ""
+"When dealing with time zone differences, try to get back to the author while "
+"they have time to respond before the end of their working hours. If they "
+"have already finished work for the day, then try to make sure your review is "
+"done before they start work the next day."
+msgstr ""
+
+#: src/en/review/reviewer/speed.md:88
+msgid "LGTM With Comments"
+msgstr ""
+
+#: src/en/review/reviewer/speed.md:90
+msgid ""
+"In order to speed up code reviews, there are certain situations in which a "
+"reviewer should give LGTM/Approval even though they are also leaving "
+"unresolved comments on the CL. This is done when either:"
+msgstr ""
+
+#: src/en/review/reviewer/speed.md:94
+msgid ""
+"The reviewer is confident that the developer will appropriately address all "
+"the reviewer's remaining comments."
+msgstr ""
+
+#: src/en/review/reviewer/speed.md:96
+msgid ""
+"The remaining changes are minor and don't _have_ to be done by the developer."
+msgstr ""
+
+#: src/en/review/reviewer/speed.md:99
+msgid ""
+"The reviewer should specify which of these options they intend, if it is not "
+"otherwise clear."
+msgstr ""
+
+#: src/en/review/reviewer/speed.md:102
+msgid ""
+"LGTM With Comments is especially worth considering when the developer and "
+"reviewer are in different time zones and otherwise the developer would be "
+"waiting for a whole day just to get \"LGTM, Approval.\""
+msgstr ""
+
+#: src/en/review/reviewer/speed.md:106
+msgid "Large CLs"
+msgstr ""
+
+#: src/en/review/reviewer/speed.md:108
+msgid ""
+"If somebody sends you a code review that is so large you're not sure when "
+"you will be able to have time to review it, your typical response should be "
+"to ask the developer to [split the CL into several smaller "
+"CLs](../developer/small-cls.md) that build on each other, instead of one "
+"huge CL that has to be reviewed all at once. This is usually possible and "
+"very helpful to reviewers, even if it takes additional work from the "
+"developer."
+msgstr ""
+
+#: src/en/review/reviewer/speed.md:116
+msgid ""
+"If a CL _can't_ be broken up into smaller CLs, and you don't have time to "
+"review the entire thing quickly, then at least write some comments on the "
+"overall design of the CL and send it back to the developer for improvement. "
+"One of your goals as a reviewer should be to always unblock the developer or "
+"enable them to take some sort of further action quickly, without sacrificing "
+"code health to do so."
+msgstr ""
+
+#: src/en/review/reviewer/speed.md:123
+msgid "Code Review Improvements Over Time"
+msgstr ""
+
+#: src/en/review/reviewer/speed.md:125
+msgid ""
+"If you follow these guidelines and you are strict with your code reviews, "
+"you should find that the entire code review process tends to go faster and "
+"faster over time. Developers learn what is required for healthy code, and "
+"send you CLs that are great from the start, requiring less and less review "
+"time. Reviewers learn to respond quickly and not add unnecessary latency "
+"into the review process. But **don't compromise on the [code review "
+"standards](standard.md) or quality for an imagined improvement in "
+"velocity**—it's not actually going to make anything happen more quickly, in "
+"the long run."
+msgstr ""
+
+#: src/en/review/reviewer/speed.md:138
+msgid ""
+"There are also [emergencies](../emergencies.md) where CLs must pass through "
+"the _whole_ review process very quickly, and where the quality guidelines "
+"would be relaxed. However, please see [What Is An "
+"Emergency?](../emergencies.md#what) for a description of which situations "
+"actually qualify as emergencies and which don't."
+msgstr ""
+
+#: src/en/review/reviewer/speed.md:144
+msgid "Next: [How to Write Code Review Comments](comments.md)"
+msgstr ""
+
+#: src/en/review/reviewer/comments.md:7
+msgid "Be kind."
+msgstr ""
+
+#: src/en/review/reviewer/comments.md:8
+msgid "Explain your reasoning."
+msgstr ""
+
+#: src/en/review/reviewer/comments.md:9
+msgid ""
+"Balance giving explicit directions with just pointing out problems and "
+"letting the developer decide."
+msgstr ""
+
+#: src/en/review/reviewer/comments.md:11
+msgid ""
+"Encourage developers to simplify code or add code comments instead of just "
+"explaining the complexity to you."
+msgstr ""
+
+#: src/en/review/reviewer/comments.md:14
+msgid "Courtesy"
+msgstr ""
+
+#: src/en/review/reviewer/comments.md:16
+msgid ""
+"In general, it is important to be [courteous and "
+"respectful](https://chromium.googlesource.com/chromium/src/+/master/docs/cr_respect.md) "
+"while also being very clear and helpful to the developer whose code you are "
+"reviewing. One way to do this is to be sure that you are always making "
+"comments about the _code_ and never making comments about the _developer_. "
+"You don't always have to follow this practice, but you should definitely use "
+"it when saying something that might otherwise be upsetting or contentious. "
+"For example:"
+msgstr ""
+
+#: src/en/review/reviewer/comments.md:24
+msgid ""
+"Bad: \"Why did **you** use threads here when there's obviously no benefit to "
+"be gained from concurrency?\""
+msgstr ""
+
+#: src/en/review/reviewer/comments.md:27
+msgid ""
+"Good: \"The concurrency model here is adding complexity to the system "
+"without any actual performance benefit that I can see. Because there's no "
+"performance benefit, it's best for this code to be single-threaded instead "
+"of using multiple threads.\""
+msgstr ""
+
+#: src/en/review/reviewer/comments.md:32
+msgid "Explain Why"
+msgstr ""
+
+#: src/en/review/reviewer/comments.md:34
+msgid ""
+"One thing you'll notice about the \"good\" example from above is that it "
+"helps the developer understand _why_ you are making your comment. You don't "
+"always need to include this information in your review comments, but "
+"sometimes it's appropriate to give a bit more explanation around your "
+"intent, the best practice you're following, or how your suggestion improves "
+"code health."
+msgstr ""
+
+#: src/en/review/reviewer/comments.md:40
+msgid "Giving Guidance"
+msgstr ""
+
+#: src/en/review/reviewer/comments.md:42
+msgid ""
+"**In general it is the developer's responsibility to fix a CL, not the "
+"reviewer's.** You are not required to do detailed design of a solution or "
+"write code for the developer."
+msgstr ""
+
+#: src/en/review/reviewer/comments.md:46
+msgid ""
+"This doesn't mean the reviewer should be unhelpful, though. In general you "
+"should strike an appropriate balance between pointing out problems and "
+"providing direct guidance. Pointing out problems and letting the developer "
+"make a decision often helps the developer learn, and makes it easier to do "
+"code reviews. It also can result in a better solution, because the developer "
+"is closer to the code than the reviewer is."
+msgstr ""
+
+#: src/en/review/reviewer/comments.md:53
+msgid ""
+"However, sometimes direct instructions, suggestions, or even code are more "
+"helpful. The primary goal of code review is to get the best CL possible. A "
+"secondary goal is improving the skills of developers so that they require "
+"less and less review over time."
+msgstr ""
+
+#: src/en/review/reviewer/comments.md:58
+msgid ""
+"Remember that people learn from reinforcement of what they are doing well "
+"and not just what they could do better. If you see things you like in the "
+"CL, comment on those too! Examples: developer cleaned up a messy algorithm, "
+"added exemplary test coverage, or you as the reviewer learned something from "
+"the CL. Just as with all comments, include [why](#why) you liked something, "
+"further encouraging the developer to continue good practices."
+msgstr ""
+
+#: src/en/review/reviewer/comments.md:65
+msgid "Label comment severity"
+msgstr ""
+
+#: src/en/review/reviewer/comments.md:67
+msgid ""
+"Consider labeling the severity of your comments, differentiating required "
+"changes from guidelines or suggestions."
+msgstr ""
+
+#: src/en/review/reviewer/comments.md:70
+msgid "Here are some examples:"
+msgstr ""
+
+#: src/en/review/reviewer/comments.md:72
+msgid ""
+"Nit: This is a minor thing. Technically you should do it, but it won’t "
+"hugely impact things."
+msgstr ""
+
+#: src/en/review/reviewer/comments.md:75
+msgid ""
+"Optional (or Consider): I think this may be a good idea, but it’s not "
+"strictly required."
+msgstr ""
+
+#: src/en/review/reviewer/comments.md:78
+msgid ""
+"FYI: I don’t expect you to do this in this CL, but you may find this "
+"interesting to think about for the future."
+msgstr ""
+
+#: src/en/review/reviewer/comments.md:81
+msgid ""
+"This makes review intent explicit and helps authors prioritize the "
+"importance of various comments. It also helps avoid misunderstandings; for "
+"example, without comment labels, authors may interpret all comments as "
+"mandatory, even if some comments are merely intended to be informational or "
+"optional."
+msgstr ""
+
+#: src/en/review/reviewer/comments.md:86
+msgid "Accepting Explanations"
+msgstr ""
+
+#: src/en/review/reviewer/comments.md:88
+msgid ""
+"If you ask a developer to explain a piece of code that you don't understand, "
+"that should usually result in them **rewriting the code more clearly**. "
+"Occasionally, adding a comment in the code is also an appropriate response, "
+"as long as it's not just explaining overly complex code."
+msgstr ""
+
+#: src/en/review/reviewer/comments.md:93
+msgid ""
+"**Explanations written only in the code review tool are not helpful to "
+"future code readers.** They are acceptable only in a few circumstances, such "
+"as when you are reviewing an area you are not very familiar with and the "
+"developer explains something that normal readers of the code would have "
+"already known."
+msgstr ""
+
+#: src/en/review/reviewer/comments.md:98
+msgid "Next: [Handling Pushback in Code Reviews](pushback.md)"
+msgstr ""
+
+#: src/en/review/reviewer/pushback.md:5
+msgid ""
+"Sometimes a developer will push back on a code review. Either they will "
+"disagree with your suggestion or they will complain that you are being too "
+"strict in general."
+msgstr ""
+
+#: src/en/review/reviewer/pushback.md:9
+msgid "Who is right?"
+msgstr ""
+
+#: src/en/review/reviewer/pushback.md:11
+msgid ""
+"When a developer disagrees with your suggestion, first take a moment to "
+"consider if they are correct. Often, they are closer to the code than you "
+"are, and so they might really have a better insight about certain aspects of "
+"it. Does their argument make sense? Does it make sense from a code health "
+"perspective? If so, let them know that they are right and let the issue drop."
+msgstr ""
+
+#: src/en/review/reviewer/pushback.md:17
+msgid ""
+"However, developers are not always right. In this case the reviewer should "
+"further explain why they believe that their suggestion is correct. A good "
+"explanation demonstrates both an understanding of the developer's reply, and "
+"additional information about why the change is being requested."
+msgstr ""
+
+#: src/en/review/reviewer/pushback.md:22
+msgid ""
+"In particular, when the reviewer believes their suggestion will improve code "
+"health, they should continue to advocate for the change, if they believe the "
+"resulting code quality improvement justifies the additional work requested. "
+"**Improving code health tends to happen in small steps.**"
+msgstr ""
+
+#: src/en/review/reviewer/pushback.md:27
+msgid ""
+"Sometimes it takes a few rounds of explaining a suggestion before it really "
+"sinks in. Just make sure to always stay [polite](comments.md#courtesy) and "
+"let the developer know that you _hear_ what they're saying, you just don't "
+"_agree_."
+msgstr ""
+
+#: src/en/review/reviewer/pushback.md:31
+msgid "Upsetting Developers"
+msgstr ""
+
+#: src/en/review/reviewer/pushback.md:33
+msgid ""
+"Reviewers sometimes believe that the developer will be upset if the reviewer "
+"insists on an improvement. Sometimes developers do become upset, but it is "
+"usually brief and they become very thankful later that you helped them "
+"improve the quality of their code. Usually, if you are "
+"[polite](comments.md#courtesy) in your comments, developers actually don't "
+"become upset at all, and the worry is just in the reviewer's mind. Upsets "
+"are usually more about [the way comments are written](comments.md#courtesy) "
+"than about the reviewer's insistence on code quality."
+msgstr ""
+
+#: src/en/review/reviewer/pushback.md:42
+msgid "Cleaning It Up Later"
+msgstr ""
+
+#: src/en/review/reviewer/pushback.md:44
+msgid ""
+"A common source of push back is that developers (understandably) want to get "
+"things done. They don't want to go through another round of review just to "
+"get this CL in. So they say they will clean something up in a later CL, and "
+"thus you should LGTM _this_ CL now. Some developers are very good about "
+"this, and will immediately write a follow-up CL that fixes the issue. "
+"However, experience shows that as more time passes after a developer writes "
+"the original CL, the less likely this clean up is to happen. In fact, "
+"usually unless the developer does the clean up _immediately_ after the "
+"present CL, it never happens. This isn't because developers are "
+"irresponsible, but because they have a lot of work to do and the cleanup "
+"gets lost or forgotten in the press of other work. Thus, it is usually best "
+"to insist that the developer clean up their CL _now_, before the code is in "
+"the codebase and \"done.\" Letting people \"clean things up later\" is a "
+"common way for codebases to degenerate."
+msgstr ""
+
+#: src/en/review/reviewer/pushback.md:58
+msgid ""
+"If a CL introduces new complexity, it must be cleaned up before submission "
+"unless it is an [emergency](../emergencies.md). If the CL exposes "
+"surrounding problems and they can't be addressed right now, the developer "
+"should file a bug for the cleanup and assign it to themselves so that it "
+"doesn't get lost. They can optionally also write a TODO comment in the code "
+"that references the filed bug."
+msgstr ""
+
+#: src/en/review/reviewer/pushback.md:65
+msgid "General Complaints About Strictness"
+msgstr ""
+
+#: src/en/review/reviewer/pushback.md:67
+msgid ""
+"If you previously had fairly lax code reviews and you switch to having "
+"strict reviews, some developers will complain very loudly. Improving the "
+"[speed](speed.md) of your code reviews usually causes these complaints to "
+"fade away."
+msgstr ""
+
+#: src/en/review/reviewer/pushback.md:72
+msgid ""
+"Sometimes it can take months for these complaints to fade away, but "
+"eventually developers tend to see the value of strict code reviews as they "
+"see what great code they help generate. Sometimes the loudest protesters "
+"even become your strongest supporters once something happens that causes "
+"them to really see the value you're adding by being strict."
+msgstr ""
+
+#: src/en/review/reviewer/pushback.md:80
+msgid ""
+"If you are following all of the above but you still encounter a conflict "
+"between yourself and a developer that can't be resolved, see [The Standard "
+"of Code Review](standard.md) for guidelines and principles that can help "
+"resolve the conflict."
+msgstr ""
+
+#: src/en/review/emergencies.md:3
+msgid ""
+"Sometimes there are emergency CLs that must pass through the entire code "
+"review process as quickly as possible."
+msgstr ""
+
+#: src/en/review/emergencies.md:9
+msgid "What Is An Emergency?"
+msgstr ""
+
+#: src/en/review/emergencies.md:11
+msgid ""
+"An emergency CL would be a **small** change that: allows a major launch to "
+"continue instead of rolling back, fixes a bug significantly affecting users "
+"in production, handles a pressing legal issue, closes a major security hole, "
+"etc."
+msgstr ""
+
+#: src/en/review/emergencies.md:15
+msgid ""
+"In emergencies we really do care about the speed of the entire code review "
+"process, not just the [speed of response](reviewer/speed.md). In this case "
+"_only_, the reviewer should care more about the speed of the review and the "
+"correctness of the code (does it actually resolve the emergency?) than "
+"anything else. Also (perhaps obviously) such reviews should take priority "
+"over all other code reviews, when they come up."
+msgstr ""
+
+#: src/en/review/emergencies.md:22
+msgid ""
+"However, after the emergency is resolved you should look over the emergency "
+"CLs again and give them a [more thorough review](reviewer/looking-for.md)."
+msgstr ""
+
+#: src/en/review/emergencies.md:25
+msgid "What Is NOT An Emergency?"
+msgstr ""
+
+#: src/en/review/emergencies.md:27
+msgid "To be clear, the following cases are _not_ an emergency:"
+msgstr ""
+
+#: src/en/review/emergencies.md:29
+msgid ""
+"Wanting to launch this week rather than next week (unless there is some "
+"actual [hard deadline](#deadlines) for launch such as a partner agreement)."
+msgstr ""
+
+#: src/en/review/emergencies.md:31
+msgid ""
+"The developer has worked on a feature for a very long time and they really "
+"want to get the CL in."
+msgstr ""
+
+#: src/en/review/emergencies.md:33
+msgid ""
+"The reviewers are all in another timezone where it is currently nighttime or "
+"they are away on an off-site."
+msgstr ""
+
+#: src/en/review/emergencies.md:35
+msgid ""
+"It is the end of the day on a Friday and it would just be great to get this "
+"CL in before the developer leaves for the weekend."
+msgstr ""
+
+#: src/en/review/emergencies.md:37
+msgid ""
+"A manager says that this review has to be complete and the CL checked in "
+"today because of a [soft (not hard) deadline](#deadlines)."
+msgstr ""
+
+#: src/en/review/emergencies.md:39
+msgid "Rolling back a CL that is causing test failures or build breakages."
+msgstr ""
+
+#: src/en/review/emergencies.md:41
+msgid "And so on."
+msgstr ""
+
+#: src/en/review/emergencies.md:43
+msgid "What Is a Hard Deadline?"
+msgstr ""
+
+#: src/en/review/emergencies.md:45
+msgid ""
+"A hard deadline is one where **something disastrous would happen** if you "
+"miss it. For example:"
+msgstr ""
+
+#: src/en/review/emergencies.md:48
+msgid ""
+"Submitting your CL by a certain date is necessary for a contractual "
+"obligation."
+msgstr ""
+
+#: src/en/review/emergencies.md:50
+msgid ""
+"Your product will completely fail in the marketplace if not released by a "
+"certain date."
+msgstr ""
+
+#: src/en/review/emergencies.md:52
+msgid ""
+"Some hardware manufacturers only ship new hardware once a year. If you miss "
+"the deadline to submit code to them, that could be disastrous, depending on "
+"what type of code you're trying to ship."
+msgstr ""
+
+#: src/en/review/emergencies.md:56
+msgid ""
+"Delaying a release for a week is not disastrous. Missing an important "
+"conference might be disastrous, but often is not."
+msgstr ""
+
+#: src/en/review/emergencies.md:59
+msgid ""
+"Most deadlines are soft deadlines, not hard deadlines. They represent a "
+"desire for a feature to be done by a certain time. They are important, but "
+"you shouldn't be sacrificing code health to make them."
+msgstr ""
+
+#: src/en/review/emergencies.md:63
+msgid ""
+"If you have a long release cycle (several weeks) it can be tempting to "
+"sacrifice code review quality to get a feature in before the next cycle. "
+"However, this pattern, if repeated, is a common way for projects to build up "
+"overwhelming technical debt. If developers are routinely submitting CLs near "
+"the end of the cycle that \"must get in\" with only superficial review, then "
+"the team should modify its process so that large feature changes happen "
+"early in the cycle and have enough time for good review."
+msgstr ""
+

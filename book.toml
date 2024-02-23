@@ -1,0 +1,24 @@
+[book]
+authors = ["Google"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Google Engineering Practices Documentation"
+
+[build]
+create-missing = false
+build-dir = "eng-practices"
+extra-watch-dirs = ["po"]
+
+[preprocessor.gettext]
+after = ["links"]
+
+#[[output.i18n.translations]]
+#language = "ja"
+#translators = ["gpt-3.5-turbo-16k-0613","xcd0"]
+#title = "Google Engineering Practices Documentation 和訳"
+
+[output.html]
+git-repository-url = "https://github.com/xcd0/eng-practices-ja"
+additional-css = ["theme/css/language-picker.css"]
+

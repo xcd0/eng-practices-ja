@@ -1,0 +1,16 @@
+# Summary
+
+- [Google Engineering Practices Documentation](./index.md)
+	- [Introduction](./review/index.md)
+	- [The CL author's guide to getting through code review](./review/developer/index.md)
+		- [Writing good CL descriptions](./review/developer/cl-descriptions.md)
+		- [Small CLs](./review/developer/small-cls.md)
+		- [How to handle reviewer comments](./review/developer/handling-comments.md)
+	- [How to do a code review](./review/reviewer/index.md)
+		- [The Standard of Code Review](./review/reviewer/standard.md)
+		- [What to look for in a code review](./review/reviewer/looking-for.md)
+		- [Navigating a CL in review](./review/reviewer/navigate.md)
+		- [Speed of Code Reviews](./review/reviewer/speed.md)
+		- [How to write code review comments](./review/reviewer/comments.md)
+		- [Handling pushback in code reviews](./review/reviewer/pushback.md)
+	- [Emergencies](./review/emergencies.md)
